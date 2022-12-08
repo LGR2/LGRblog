@@ -2,22 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LGR Blog 郭亮</title>
-    <link>https://example.com/</link>
+    <link>https://lgrblog.pages.dev/</link>
     <description>Recent content on LGR Blog 郭亮</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <copyright>Copyright © 2022</copyright>
     <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lgrblog.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mongolia</title>
-      <link>https://example.com/post/mongolia/</link>
+      <title>About</title>
+      <link>https://lgrblog.pages.dev/about/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/mongolia/</guid>
+      <guid>https://lgrblog.pages.dev/about/</guid>
+      <description>&lt;p&gt;Hi there! My name is &lt;strong&gt;Leon&lt;/strong&gt;. I&amp;rsquo;m a gap year student from Ireland trying to interrogate the contours of my future career—and seeing what paths lie ahead. Currently, I work for the ODI as an economic research intern and I&amp;rsquo;m an incoming research intern at Trivium China, working on green finance. My main area&amp;rsquo;s of interest lie at the intersection of economics and data: there&amp;rsquo;s just something so &lt;em&gt;powerful (satisfying?)&lt;/em&gt; about shaking out meaningful insights from messy heaps of data. I plan to maintain this blog as a good writing exercise for myself, as well as sharpening my findings from the work I do.&lt;/p&gt;
+&lt;p&gt;Beyond this, I also compose (classical) music in my spare time and run a music related Youtube Channel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mongolia</title>
+      <link>https://lgrblog.pages.dev/post/mongolia/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lgrblog.pages.dev/post/mongolia/</guid>
       <description>&lt;h2 id=&#34;context-of-mongolias-economic-situation&#34;&gt;Context of Mongolia&amp;rsquo;s Economic Situation&lt;/h2&gt;
 &lt;p&gt;Mongolia is exceptionally well-placed to succeed economically. It is sitting on trillions of dollars worth of mineral wealth; it shares a border with China, the world’s largest consumer of several raw materials, including copper and coal. Unsurprisingly, Mongolia has taken advantage of their natural resource wealth: over 90% of its exports today come from the mining sector which has led to its recent rapid economic growth. Yet, despite its vast mineral wealth, Mongolia is a prisoner to two constraints which are paralysing prosperity and growth.&lt;/p&gt;
 &lt;p&gt;The first is Mongolia’s infrastructure. For decades, Mongolia relied on poor road and rail infrastructure inherited from the Soviet Union. The combined recent improvement in road infrastructure and the lack of investment in appropriate rail infrastructure being developed has meant that Mongolia has relied on trucks to transport its mineral products. This is not ideal: mineral resources, like coal, are high-weight, low-value goods, making road transportation ill-suited to this task. For this reason, transport costs in Mongolia are significantly higher compared to other countries in the region. For example, it is almost 75% more expensive per kilometre to transport a TEU (twenty-foot equivalent unit) from Ulaanbaatar in Mongolia compared to Tashkent in Uzbekistan—a doubly landlocked country, that is, all Uzbekistan’s neighbours are all also landlocked countries.&lt;/p&gt;
@@ -80,17 +91,6 @@ Mining continues to be the largest source of FDI in the country. FDI has recover
 &lt;li&gt;[Online] &lt;a href=&#34;https://www.imf.org/en/News/Articles/2022/10/25/mcs102522-mongolia-staff-concluding-statement-of-the-2022-article-iv-mission&#34;&gt;https://www.imf.org/en/News/Articles/2022/10/25/mcs102522-mongolia-staff-concluding-statement-of-the-2022-article-iv-mission&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;[Online] &lt;a href=&#34;https://cabinet.gov.mn/wp-content/uploads/2050_VISION_LONG-TERM-DEVELOPMENT-POLICY.pdf&#34;&gt;https://cabinet.gov.mn/wp-content/uploads/2050_VISION_LONG-TERM-DEVELOPMENT-POLICY.pdf&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://example.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/about/</guid>
-      <description>&lt;p&gt;Hi there! My name is &lt;strong&gt;LGR&lt;/strong&gt;. I&amp;rsquo;m a gap year student from Ireland trying to interrogate the contours of my future career—and seeing what paths lie ahead. Currently, I work for the ODI as an economic research intern and I&amp;rsquo;m an incoming research intern at Trivium China, working on green finance. My main area&amp;rsquo;s of interest lie at the intersection of economics and data: there&amp;rsquo;s just something so &lt;em&gt;powerful (satisfying?)&lt;/em&gt; about shaking out meaningful insights from messy heaps of data. I plan to maintain this blog as a good writing exercise for myself, as well as sharpening my findings from the work I do.&lt;/p&gt;
-&lt;p&gt;Beyond this, I also compose (classical) music in my spare time and run a music related Youtube Channel.&lt;/p&gt;
 </description>
     </item>
     

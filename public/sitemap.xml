@@ -2,37 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://lgrblog.pages.dev/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://lgrblog.pages.dev/about/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/china/</loc>
+    <loc>https://lgrblog.pages.dev/categories/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/economics/</loc>
+    <loc>https://lgrblog.pages.dev/tags/china/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/effortposts/</loc>
+    <loc>https://lgrblog.pages.dev/categories/economics/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/mongolia/</loc>
+    <loc>https://lgrblog.pages.dev/categories/effortposts/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/mongolia/</loc>
+    <loc>https://lgrblog.pages.dev/tags/mongolia/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://lgrblog.pages.dev/post/mongolia/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://lgrblog.pages.dev/post/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://lgrblog.pages.dev/tags/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
-  </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://lgrblog.pages.dev/series/</loc>
   </url>
 </urlset>
