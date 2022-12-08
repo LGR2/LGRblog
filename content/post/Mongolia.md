@@ -1,7 +1,7 @@
 +++
 title = "Mongolia"
 description = "A relatively comprehensive economic overview of Mongolia's economy and FDI trends"
-date = "2022-12-6"
+date = "2022-12-06"
 author = "Leon Reilly"
 categories = [
     "Economics",
