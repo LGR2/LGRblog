@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 author = "Leon Reilly"
-baseURL = "https://example.com/"
+baseURL = "https://lgr-blog.onrender.com/"
 copyright = "Copyright © 2022"
 disqusShortname = "YOURSHORTNAME"
 enableInlineShortcodes = true
