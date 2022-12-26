@@ -8,7 +8,7 @@ googleAnalytics = "UA-FAKE" ## or "G-xxxxxxxx" in Google Analytics v4, in hugo v
 hasCJKLanguage = true
 languageCode = "cn"
 theme = "hugo-theme-tokiwa"
-title = "郭亮/LGR's Blog"
+title = "郭亮 LGR's Blog"
 
 [markup]
 [markup.highlight]
