@@ -1,15 +1,15 @@
 DefaultContentLanguage = "en"
 author = "Leon Reilly"
-baseURL = "https://lgrblog.pages.dev/"
+baseURL = "https://lgr.pages.dev/"
 copyright = "Copyright © 2022"
-disqusShortname = "YOURSHORTNAME"
+# disqusShortname = "YOURSHORTNAME"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-FAKE" ## or "G-xxxxxxxx" in Google Analytics v4, in hugo v0.82+
 hasCJKLanguage = true
 languageCode = "cn"
 theme = "hugo-theme-tokiwa"
-title = "LGR Blog 郭亮"
+title = "LGR郭亮's Blog"
 
 [markup]
 [markup.highlight]
@@ -27,7 +27,7 @@ env = "production" # for Google Analytics and DISQUS.
 favicon = "img/favicon-32x32.png" 
 fuse = true # for searchbox. "JSON" must added to output contents. See [outputs].
 math = true # for introducing $KaTEX$
-useChineseFonts = true 
+useChineseFonts = false 
 postDateFormat = "2006-1-2"
 
 [menu]
