@@ -11,5 +11,16 @@
 	<atom:link href="https://lgr.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About</title>
+      <link>https://lgr.pages.dev/about/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lgr.pages.dev/about/</guid>
+      <description>&lt;p&gt;Hi there! I&amp;rsquo;m &lt;strong&gt;LGR&lt;/strong&gt;. I&amp;rsquo;m a gap year student from Ireland trying to interrogate the contours of my future career—and seeing what paths lie ahead. Currently, I work for the ODI as an economic research intern and I&amp;rsquo;m an incoming research intern at Trivium China, working on green finance. My main area&amp;rsquo;s of interest lie at the intersection of economics and data: there&amp;rsquo;s just something so &lt;em&gt;powerful (satisfying?)&lt;/em&gt; about shaking out meaningful insights from messy heaps of data. I plan to maintain this blog as a good writing exercise for myself, as well as sharpening my findings from the work I do.&lt;/p&gt;
+&lt;p&gt;Beyond this, I also compose (classical) music in my spare time and run a music related Youtube Channel.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
