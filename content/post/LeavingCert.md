@@ -108,7 +108,7 @@ Anyway, here I am six years later after attending that talk and writing my own v
 
 
 
-[^7]: Probably something closer to "A 825 Student's Guide to all the Nonsense and Bullshit People will tell You".
+[^7]: Probably something closer to "A 825 Student's Guide To All The Nonsense and Bullshit People Will Tell You about The Leaving Certificate".
 
 
 
