@@ -94,9 +94,9 @@ male_stdev = sqrt(sum(male*(value-male_mean)^2)/sum(male)); male_std
 ```
 
 
-We obtain a Cramer V of 0.1048. Our contingency table has 1 degree of freedom, so from consulting the Cramer V table, the effect size of gender is small for English. A Cramer's V >0.1 provides strong evidence of a substantive relationship between gender and performance. If we look at the average grades between sexes, we can see that girls perform better than boys (lower mean is better). This tells us the direction in which the Cramer's V points.
+We obtain a Cramer V of 0.1048. Our contingency table has 1 degree of freedom, so from consulting the Cramer V table, the effect size of gender is small for English. A Cramer's V >0.1 provides strong evidence of a substantive relationship between gender and performance. If we look at the average grades between the sexes, we can see that girls perform better than boys (lower mean is better). This tells us the direction in which the Cramer's V points.
 
-It's worth thinking about the mean and standard deviation values too. The data also seems to support the greater male variability hypothesis. This is the tendency for males to show greater variability than females for psychological traits. How does this apply to grades? We'd expect girls' grades to be less variable (more consistent) and than boys'. We can also expect girls to achieve higher grades, on average. Let's repeat this analysis for some other LC subjects. 
+It's worth thinking about the mean and standard deviation values too. The data also seems to support the greater male variability hypothesis. This is the tendency for males to show greater variability than females for psychological traits. How does this apply to grades? We'd expect girls' grades to be less variable (more consistent) than boys'. We can also expect girls to achieve higher grades, on average. Let's repeat this analysis for some other LC subjects. 
 
 
 
