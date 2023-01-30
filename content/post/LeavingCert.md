@@ -1,6 +1,6 @@
 +++
 title = "Part I: The Thing about the Leaving Certificate..."
-description = "Reflections and advice after doing it all"
+description = "I'm reflective...on my pensive shit...I commit introspective acts "
 date = "2023-01-29"
 author = "Leon Reilly"
 categories = [
