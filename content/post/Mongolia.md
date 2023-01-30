@@ -28,7 +28,7 @@ Mongolia is exceptionally well placed to succeed economically. Not only does it 
 <iframe title="Mongolian Exports by Commodity Group, 2021" aria-label="Donut Chart" id="datawrapper-chart-yVUV1" src="https://datawrapper.dwcdn.net/yVUV1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="408" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-## Binding Constraints on Growth's
+## **Binding Constraints on Growth**
 
 The first constraint is Mongolia’s infrastructure. For decades, Mongolia relied on poor road and rail infrastructure inherited from the Soviet Union. The recent improvement in road infrastructure yet lack of investment in appropriate rail infrastructure has meant that Mongolia has relied on trucks to transport its mineral exports. This is not ideal: mineral resources, like coal, are high-weight, low-value goods, making road transportation ill-suited to this task. For this reason, transport costs in Mongolia are significantly higher compared to other countries in the region. For example, it is almost 75% more expensive per kilometre to transport a TEU (twenty-foot equivalent unit) from Ulaanbaatar in Mongolia compared to Tashkent in Uzbekistan-—a doubly landlocked country! 
 
@@ -39,7 +39,7 @@ The second constraint is China’s Zero-Covid Policy. At the heart of Mongolia�
 Not only is Mongolia entirely dependent on exporting natural resources, they are also entirely dependnet on China to buy those imports. Mongolia is doubly "cursed" in this sense. 
 
 
-### Tackling these constraints
+### **Tackling these constraints**
 
 Given the importance of mining exports to China to Mongolia’s economy, the Mongolian government has created the New Recovery Policy (NRP) in response to these challenges. One pillar of the NRP is “Border Ports Recovery”. The main thrust of this policy pillar is to increase the capacity of existing ports and to build more roads and rail connections to these ports. If poor transport is a current constraint on exporting more mining products, then these policies will remove them. Considering that the Oyu Tolgoi mine is still ramping up production, this seems to be appropriate and prudent future planning: when the NRP is completed, the Oyu Tolgoi mine will be running at full capacity. When it comes to dealing with China’s Zero-Covid Policy, Mongolia believes wiggle around this constraint if they “strictly follow[s] the infection control regime”. 
 

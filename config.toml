@@ -27,7 +27,7 @@ favicon = "img/favicon-32x32.png"
 fuse = true # for searchbox. "JSON" must added to output contents. See [outputs].
 math = true # for introducing $KaTEX$
 useChineseFonts = false 
-postDateFormat = "2006-1-2"
+postDateFormat = "2006-01-02"
 
 [menu]
 # Shown in the side menu.
