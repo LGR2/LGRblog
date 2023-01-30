@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on 郭亮 LGR&#39;s Blog</title>
+    <link>https://lgr.pages.dev/categories/r/</link>
+    <description>Recent content in R on 郭亮 LGR&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <copyright>Copyright © 2022</copyright>
+    <lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lgr.pages.dev/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Part II: Gender Achievement in the Leaving Certificate</title>
+      <link>https://lgr.pages.dev/post/lcanalysis/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lgr.pages.dev/post/lcanalysis/</guid>
+      <description>&lt;h3 id=&#34;i&#34;&gt;I.&lt;/h3&gt;
+&lt;p&gt;This is a follow up from my previous article about the LC. While H1 rates were an important consideration for what subjects we chose, we probably should&amp;rsquo;ve paid more attention to the H1 rates by gender. To be fair, however, nobody has (to my knowledge) visualised or even presented these statistics before, so it&amp;rsquo;s not like we didn&amp;rsquo;t do our DD.&lt;/p&gt;
+&lt;p&gt;Seeing the graph in the previous post got me thinking about if there any of the grades and subjects were independent, i.e., does gender have a relationship with grades? What I want to talk about today is the statistics the State Examinations Commission (SEC) releases that shows the grade distribution by sex for each of the subjects examined for the LC. From looking at the graph on my previous article, it seems relatively clear that girls achieve a higher proportion of top grades (H4 or better). I&amp;rsquo;m going to first answer this question for English. Let&amp;rsquo;s take a look at the data.&lt;/p&gt;
+&lt;iframe title=&#34;LC English Grade Distribution by Gender, 2019&#34; aria-label=&#34;Grouped Bars&#34; id=&#34;datawrapper-chart-aBaIm&#34; src=&#34;https://datawrapper.dwcdn.net/aBaIm/1/&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;width: 0; min-width: 100% !important; border: none;&#34; height=&#34;610&#34; data-external=&#34;1&#34;&gt;&lt;/iframe&gt;&lt;script type=&#34;text/javascript&#34;&gt;!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,(function(e){if(void 0!==e.data[&#34;datawrapper-height&#34;]){var t=document.querySelectorAll(&#34;iframe&#34;);for(var a in e.data[&#34;datawrapper-height&#34;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&#34;datawrapper-height&#34;][a]+&#34;px&#34;}}}))}();
+&lt;/script&gt;
+&lt;p&gt;It&amp;rsquo;s clear that girls outperform boys. To quantify how much better girls perform, we&amp;rsquo;ll analyse the data. We need to consider what type of data we are working with. Our two variables are grades and gender, so we&amp;rsquo;ll use a contingency table. The question we want to answer is whether there is a difference in achievement between the sexes. The chi-squared test tells us how much the observed data (the actual data) differs from what we would expect if there were no association between the variable, i.e., gender has no effect on grade achieved—this is our null hypothesis.
+$$\chi ^{2}= \sum \frac{(O_{i}-E_{i})^{^{2}}}{E_{i}}$$
+Unfortunately, the spreadsheet with all the original data is formatted in an awful way, so we&amp;rsquo;ll have to construct out contingency table ourselves.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;library(confintr)
+grade = c(&amp;#34;H1&amp;#34;, &amp;#34;H2&amp;#34;, &amp;#34;H3&amp;#34;, &amp;#34;H4&amp;#34;, &amp;#34;H5&amp;#34;, &amp;#34;H6&amp;#34;, &amp;#34;H7&amp;#34;, &amp;#34;H8&amp;#34;)
+value = c(1:8)
+female = c(733,	2474,	4853,	6233,	5018,	2295,	415,	76)
+male = c(448,	1566,	3367,	4851,	4554,	2524,	642,	168)
+table = xtabs(cbind(female, male) ~ grade)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This gives us a contingency table like this.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Grade&lt;/th&gt;
+&lt;th&gt;Male&lt;/th&gt;
+&lt;th&gt;Female&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;H1&lt;/td&gt;
+&lt;td&gt;488&lt;/td&gt;
+&lt;td&gt;733&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;H2&lt;/td&gt;
+&lt;td&gt;1566&lt;/td&gt;
+&lt;td&gt;2474&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;H3&lt;/td&gt;
+&lt;td&gt;3367&lt;/td&gt;
+&lt;td&gt;4853&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;H4&lt;/td&gt;
+&lt;td&gt;4861&lt;/td&gt;
+&lt;td&gt;6233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;H5&lt;/td&gt;
+&lt;td&gt;4554&lt;/td&gt;
+&lt;td&gt;5018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;H6&lt;/td&gt;
+&lt;td&gt;2524&lt;/td&gt;
+&lt;td&gt;2295&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;H7&lt;/td&gt;
+&lt;td&gt;642&lt;/td&gt;
+&lt;td&gt;415&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;H8&lt;/td&gt;
+&lt;td&gt;168&lt;/td&gt;
+&lt;td&gt;76&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Now that we have our data in a table, we&amp;rsquo;ll run our chi-squared test on it.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;gt; chisq.test(table)
+
+    Pearson&amp;#39;s Chi-squared test
+
+data:  table
+X-squared = 441.65, df = 7, p-value &amp;lt; 2.2e-16
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The high X-squared value and very low p-value confirms what we could see visually from the graph: the results between boys and girls are not independent. We now want to determine the size of the effect of sex. By itself, the chi-squared test does not tell us how large the effect of sex has on grades. To do this, we&amp;rsquo;ll use Cramer&amp;rsquo;s V to determine the effect size. Cramer&amp;rsquo;s V ranges from 0 to 1, where 0 indicates no assocaition and 1 indicates a perfect association, where n is the sample or population size, r is the number of rows, and c is the number of columns in the contingency table.&lt;/p&gt;
+&lt;p&gt;$$\phi_{Cramer&amp;rsquo;s V} = \sqrt{\frac{\chi^{2}}{n\cdot min(r-1);(c-1)}}$$&lt;/p&gt;
+&lt;p&gt;Additionally, to provide some more rigour, we&amp;rsquo;ll also calculate the mean grades by assigning a value to each grade (1 for H1 and 8 for H8), and calculate the standard deviation.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
+cramersv(table)
+
+female_mean = sum(value*female)/sum(female); female_mean
+female_stdev = sqrt(sum(female*(value-female_mean)^2)/sum(female)); female_std
+male_mean = sum(value*male)/sum(male); male_mean
+male_stdev = sqrt(sum(male*(value-male_mean)^2)/sum(male)); male_std
+
+-----
+
+&amp;gt; cramersv(table)
+[1] 0.104794
+&amp;gt; female_mean = sum(value*female)/sum(female); female_mean
+[1] 3.96185
+&amp;gt; female_stdev = sqrt(sum(female*(value-female_mean)^2)/sum(female)); female_std
+[1] 1.353199
+&amp;gt; male_mean = sum(value*male)/sum(male); male_mean
+[1] 4.240453
+&amp;gt; male_stdev = sqrt(sum(male*(value-male_mean)^2)/sum(male)); male_std
+[1] 1.404254
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;We obtain a Cramer V of 0.1048. Our contingency table has 1 degree of freedom, so from consulting the Cramer V table, the effect size of gender is small for English. A Cramer&amp;rsquo;s V &amp;gt;0.1 provides strong evidence of a substantive relationship between gender and performance. If we look at the average grades between the sexes, we can see that girls perform better than boys (lower mean is better). This tells us the direction in which the Cramer&amp;rsquo;s V points.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s worth thinking about the mean and standard deviation values too. The data also seems to support the greater male variability hypothesis. This is the tendency for males to show greater variability than females for psychological traits. How does this apply to grades? We&amp;rsquo;d expect girls&amp;rsquo; grades to be less variable (more consistent) than boys&amp;rsquo;. We can also expect girls to achieve higher grades, on average. Let&amp;rsquo;s repeat this analysis for some other LC subjects.&lt;/p&gt;
+&lt;iframe title=&#34;χ2 Statistics for selected LC Subjects, 2019&#34; aria-label=&#34;Table&#34; id=&#34;datawrapper-chart-AHNkG&#34; src=&#34;https://datawrapper.dwcdn.net/AHNkG/1/&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;width: 0; min-width: 100% !important; border: none;&#34; height=&#34;1052&#34; data-external=&#34;1&#34;&gt;&lt;/iframe&gt;&lt;script type=&#34;text/javascript&#34;&gt;!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,(function(e){if(void 0!==e.data[&#34;datawrapper-height&#34;]){var t=document.querySelectorAll(&#34;iframe&#34;);for(var a in e.data[&#34;datawrapper-height&#34;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&#34;datawrapper-height&#34;][a]+&#34;px&#34;}}}))}();
+&lt;/script&gt;
+&lt;h3 id=&#34;iii&#34;&gt;III.&lt;/h3&gt;
+&lt;p&gt;There are some very intersting results here. The top 3 strongestest associations between gender and grade is for Home Economics, Art, and Physics. Girls have a higher average grade in all three subjects—almost a full grade higher in Home Economics—and are more consistent, i.e., their standard deviation is lower.&lt;/p&gt;
+&lt;p&gt;Applied Mathematics has the lowest chi-squared statistic. It is also statistically insignificant. It remains perhaps the only subject that has a similar grade distribution between the sexes. In almost all other subjects, girls outperform boys, except in Mathematics. This however does also not neatly map onto the stereotype that girls are better at humanitites and boys are better at STEM. I suspect the reason is because many people take Higher Level Mathematics in order to avail of the additional 25 bonus points, meaning it still could be worth doing instead of taking Ordinary Level Mathematics. Additionally, many college courses require you to achieve a minimum grade in HL Mathematics. In subjects that are not mandatory, girls outperform boys in most other STEM subjects, e.g. Physics, Biology, Technology, and Construction Studies. I suspect this is because the girls who self select into taking these subjects are more confident of their mathematical aptitude.&lt;/p&gt;
+&lt;h3 id=&#34;iv&#34;&gt;IV.&lt;/h3&gt;
+&lt;p&gt;Unfortunately, I have no other data about other variables that would likely have an effect on grades, i.e., income levels, attending a fee-paying school, etc. I cannot control for these variables because the SEC doesn&amp;rsquo;t collect this data&lt;cite&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;. However, the fact we are testing the entire population rather than just a sample allows us to draw some conclusions with these limitations in mind.&lt;/p&gt;
+&lt;p&gt;This was just a fun little project. But it also raises some important questions. Why are boys falling so far behind? Why are girls still weaker at Mathematics? What can we do to address these issues?&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;I asked.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
