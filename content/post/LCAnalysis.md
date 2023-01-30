@@ -1,10 +1,10 @@
 +++
 title = "Part II: Gender Achievement in the Leaving Certificate"
-description = "So we do a little statistical analysis..."
+description = "So we do a little statistical analysis...<3 R"
 date = "2023-01-30"
 author = "Leon Reilly"
 categories = [
-    "Notes"
+    "R"
    
 ]
 tags = [
