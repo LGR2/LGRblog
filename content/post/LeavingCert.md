@@ -1,6 +1,6 @@
 +++
 title = "Part I: The Thing about the Leaving Certificate..."
-description = "I'm reflective...on my pensive shit...I commit introspective acts "
+description = "I'm reflective...pensive mode...I commit introspective acts "
 date = "2023-01-29"
 author = "Leon Reilly"
 categories = [
@@ -16,7 +16,7 @@ draft = false
 
 +++
 
-### I.
+### I. 
 
 So I’m going to write about the Leaving Certificate (LC), and what it’s like to experience the culture that surrounds it. 
 
