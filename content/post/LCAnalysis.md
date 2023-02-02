@@ -34,7 +34,7 @@ $$\chi ^{2}= \sum \frac{(O_{i}-E_{i})^{^{2}}}{E_{i}}$$
 
 Unfortunately, the spreadsheet with all the original data is formatted awfully, so we'll have to construct the contingency table ourselves. 
 
-```
+{{< highlight r >}}
 library(confintr)
 grade = c("H1", "H2", "H3", "H4", "H5", "H6", "H7", "H8")
 value = c(1:8)
@@ -42,8 +42,8 @@ female = c(733,	2474,	4853,	6233,	5018,	2295,	415,	76)
 male = c(448,	1566,	3367,	4851,	4554,	2524,	642,	168)
 table = xtabs(cbind(female, male) ~ grade)
 
+{{< /highlight >}}
 
-```
 
 This gives us a contingency table like this.
    Grade | Male | Female
@@ -59,14 +59,14 @@ This gives us a contingency table like this.
 
 Now that we have our data in a table, we'll run our chi-squared test on it.
 
-```
+{{< highlight r >}}
 > chisq.test(table)
 
-    Pearson's Chi-squared test
+    Pearson Chi-squared test
 
 data:  table
 X-squared = 441.65, df = 7, p-value < 2.2e-16
-```
+{{< /highlight >}}
 
 The high chi-squared value and very low p-value confirm what we could see visually from the graph: the results between gender and grades are not independent. We now want to determine the size of the effect of gender. By itself, the chi-squared test does not tell us how large the the association is between gender and grades. To do this, we'll use Cramer's V to determine the effect size. Cramer's V ranges from 0 to 1, where 0 indicates no association and 1 indicates a perfect association, where n is the sample or population size, r is the number of rows, and c is the number of columns in the contingency table. It's a bit like correlation.
 
@@ -75,7 +75,7 @@ $$\phi_{Cramer's V} = \sqrt{\frac{\chi^{2}}{n\cdot min(r-1);(c-1)}}$$
 Additionally, to provide some more rigour, we'll calculate the mean and standard deviation of grades by gender by assigning a value to each grade (1 for H1 and 8 for H8).
 
 
-```
+{{< highlight r >}}
 
 cramersv(table)
 
@@ -96,7 +96,9 @@ male_stdev = sqrt(sum(male*(value-male_mean)^2)/sum(male)); male_std
 [1] 4.240453
 > male_stdev = sqrt(sum(male*(value-male_mean)^2)/sum(male)); male_std
 [1] 1.404254
-```
+
+
+{{< /highlight >}}
 
 
 We get a Cramer's V of 0.1048. This is a small effect size but provides strong evidence of a substantive relationship between gender and grades. If we look at the average grades for both genders, we can see that girls perform better than boys (lower mean is better). This also tells us the direction in which Cramer's V points.

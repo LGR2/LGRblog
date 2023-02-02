@@ -1,7 +1,7 @@
 +++
-title = "Mongolia's Economic Path to Prosperity?"
+title = "The Path to Prosperity: Mongolia"
 description = "An investigation into what the hell is goin on in Mongolia"
-date = "2022-12-06"
+date = "2023-01-31"
 author = "Leon Reilly"
 categories = [
     "Economics",
