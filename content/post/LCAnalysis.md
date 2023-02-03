@@ -1,6 +1,6 @@
 +++
-title = "Part II: Gender Achievement in the Leaving Certificate"
-description = "So we do a little statistical analysis...<3 R"
+title = "The Thing about The Leaving Certificate: Part II - Achievement by Gender"
+description = "So we do a little statistical analysis..."
 date = "2023-01-30"
 author = "Leon Reilly"
 categories = [
@@ -15,7 +15,8 @@ toc = false
 draft = false
 
 +++
-[Preface]: I'm doing everything in R
+### Preface
+[I'm doing everything in R]
 
 ### I.
 
@@ -26,11 +27,12 @@ Seeing the graph in the previous post got me thinking about if there any of the 
 <iframe title="LC English Grade Distribution by Gender, 2019" aria-label="Grouped Bars" id="datawrapper-chart-aBaIm" src="https://datawrapper.dwcdn.net/aBaIm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="610" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-Girls outperform boys—pretty straightforward. To quantify how much better girls perform, we'll analyse the data. We need to consider what type of data we are working with. We only have count data for gender (categorical) and grades (categorical), so we'll use a contingency table. The chi-squared test tells us how much the observed data (the actual data) differs from what we would expect if there were no association between the variable, i.e., gender has no effect on the grade achieved—this is our null hypothesis. 
+Girls outperform boys—pretty straightforward. To quantify how much better girls perform, we'll analyse the data. We need to consider what type of data we are working with. We only have count data for gender (categorical) and grades (categorical), so we'll use a contingency table. The chi-squared test tells us how much the observed data (the actual data) differs from what we would expect if there were no association between the variable, i.e., gender has no effect on the grade achieved—this is our null hypothesis.
 
 
 
 $$\chi ^{2}= \sum \frac{(O_{i}-E_{i})^{^{2}}}{E_{i}}$$
+
 
 Unfortunately, the spreadsheet with all the original data is formatted awfully, so we'll have to construct the contingency table ourselves. 
 
