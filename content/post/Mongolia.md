@@ -16,11 +16,25 @@ draft = true
 
 +++
 
+## Preface
+
+[This is my attempt at trying to do a somewhat comprehensive overview of Mongolia's economic landscape. It isn't intended to be considerably technical. I've put a decent amount of time into researching this post but by no means does it reflect perfect epistemic confidence: this is just good writing practice and fun to do. Do message me if anything is amiss. I wrote this back in early December 2022, but didn't post it because I wasn't very happy with it. A lot has changed since then, most notably, Zero-covid is gone.]
+
 ## Introduction to Minegolia
 
-There are a few dozen mines scattered across Mongolia, from the coal mines which have pushed Mongolia along the path of prosperity, to the copper mines that promise to accelerate Mongolia's ascent towards wealth. Most of them were developed by the USSR when Mongolia was a still member. Cooperation in mining between the USSR and Mongolia began in 1949 and continued until the breakup of the USSR, where Mongolia received a truly colossal amount of FDI for its small population of only 2 million. In more recent times, foreign investors have began to develop colossal mining projects, such as the Oyu Tolgoi mine, Mongolia's largest. 
+What is going on in Mongolia?
 
-Mongolia is exceptionally well placed to succeed economically. Not only does it sit on trillion of dollars worth of minerals, but it also shares a border with China, the world's largest consumer of many raw material, including copper and coal. Mongolia has taken advantage of their natural resource wealth: over 90% of its exports today come from the mining sector, leading to its rapid economic growth. Yet, despite its vast mineral wealth, Mongolia is a prisoner to two constraints which are paralysing its prosperity and future growth.
+Obviously, there's [this guy on top of a mountain praising Genghis Khan](https://youtu.be/6WlI24rv__g?t=27). 
+
+No but really: what's going on in Monglia? I mean: Mongolia is a relatively obscure country that most people don’t know (or care) much about. But it’s quite an interesting country, both economically and geostrategically: Mongolia is landlocked country between Russia and China; it's also a democracy that's friends with the US; and it has few trillion dollars worth of mineral wealth. "Minegolia" could not be more apt of a name. Somewhat unsurprisingly, mining is a crucial component of the country's economy—and will continue to be for many years.
+
+Today, there are a few dozen mines scattered across Mongolia. Many of them were developed by the USSR in the 20th century. Mining cooperation  between the USSR and Mongolia continued up until the breakup of the USSR—during that time Mongolia received a truly colossal amount of FDI for its small population of only ~2 million[^1]. In more recent times, foreign investors have begun to develop colossal mining projects, such as the Oyu Tolgoi mine, Mongolia's largest. These mines promise to chart a route for Mongolia on it's path to prosperity.
+
+
+[^1]: See this and others: Dorian, J. P. (1991). USSR-Mongolia. Resources Policy, 17(1), 42–53. doi:10.1016/0301-4207(91)90025-q 
+
+The fact Mongolia borders Russia and China and has lots of natural resources help explain the Mongolian economy's dynamics. While Mongolia used to export most of its mineral products to the USSR, in the 1990's, it reoriented itself towards Asia. High commodity prices and Chinese import demand for raw materials in the mid 2000's catalysed Mongolia's period of exceptional economic growth. Yet, it seems Mongolia's vast mineral wealth could become more of a vice than virtue—over 90% of its exports come from the mining sector. Mongolia is reliant on its natural resources and very sensitive to changes in commodity prices. Two factors are constraining Mongolia's current—and future—economic growth. Let's explore this in some more detail.
+
 
 <iframe title="Mongolian Exports by Commodity Groups, USD Thousands" aria-label="Interactive line chart" id="datawrapper-chart-pqq8q" src="https://datawrapper.dwcdn.net/pqq8q/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> 
@@ -28,13 +42,28 @@ Mongolia is exceptionally well placed to succeed economically. Not only does it 
 <iframe title="Mongolian Exports by Commodity Group, 2021" aria-label="Donut Chart" id="datawrapper-chart-yVUV1" src="https://datawrapper.dwcdn.net/yVUV1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="408" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-## **Binding Constraints on Growth**
+Notice that the second largest export commodity group is "Natural or cultured stones, precious metal, jewellery". That also sounds like mining (at least mining adjacent) to me.
 
-The first constraint is Mongolia’s infrastructure. For decades, Mongolia relied on poor road and rail infrastructure inherited from the Soviet Union. The recent improvement in road infrastructure yet lack of investment in appropriate rail infrastructure has meant that Mongolia has relied on trucks to transport its mineral exports. This is not ideal: mineral resources, like coal, are high-weight, low-value goods, making road transportation ill-suited to this task. For this reason, transport costs in Mongolia are significantly higher compared to other countries in the region. For example, it is almost 75% more expensive per kilometre to transport a TEU (twenty-foot equivalent unit) from Ulaanbaatar in Mongolia compared to Tashkent in Uzbekistan-—a doubly landlocked country! 
 
-While Mongolia has thirteen border ports with China, 90% of Mongolia’s exports pass through just three. This immense concentration of export volumes has amplified the congestion that materialises at border ports.  Additionally, there is a risk that overcrowding at these three border ports will occur as the volume of exports trying to pass through will exceed the capacity of these ports. 
 
-The second constraint is China’s Zero-Covid Policy. At the heart of Mongolia’s dilemma for growth is that Mongolia and China differ in their strategy for dealing with Covid. Mongolia’s measures are directed towards “adaptation to living with the virus and on blocking its spread” while China is focused on maintaining its Zero-Covid policy, i.e., zero transmission of the virus. The Zero-Covid Policy impedes the volume of Mongolian exports and increases the border crossing time because of the increased required paperwork and quarantine time for truck drivers. As a result, border crossing times have more than doubled. 
+
+
+## Constraints on Growth
+
+The first constraint is Mongolia's infrastructure. For decades, the country's transporation network for mineral goods, consisting of roads and rail systems built by the Soviet Union, has been relatively poor. Despite recent improvements in road infrastructure, a lack of investment in rail has to led to a reliance on truck transportation. This is not ideal. Mineral products, like coal, are high-weight, low-value goods, making trucks a pretty expensive and inefficient way to move them. As a result, Mongolia has significantly higher transportation costs than some of its neighbours. For example, the cost per kilometer of transporting a TEU (twenty-foot equivalent unit) from Mongolia's capital Ulaanbaatar to Japan is almost 75% more expensive than transporting a TEU from Tashkent in Uzbekistant—a doubly landlocked country—to Japan[^2]!! 
+
+To make matters worse, while Mongolia has thirteen border ports with China, ~90% of Mongolia's exports pass through just three: Gashuunsukhait, Shiveekhuren, and Zamyn-Uud[^3]. This immense concentration of export volumes has amplified the congestion that materialises at border ports, often increasing waiting times. Additionally, there is a risk of overcrowding, that is, the volume of exports trying to pass through will exceed the ports' capacity. It's important to address this issue. A good transportation system is a precondition to quickly and easily sell your mineral products.
+
+[^2]: Statistics from the Mongolian Government's "New Recovery Policy" Document.
+[^3]: Mongolian National Statistics Office
+
+
+<iframe title="Key Mongolian Mines and Ports" aria-label="Locator maps" id="datawrapper-chart-FO9F5" src="https://datawrapper.dwcdn.net/FO9F5/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="712" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
+
+
+~~The second constraint is China’s Zero-Covid Policy. At the heart of Mongolia’s dilemma for growth is that Mongolia and China differ in their strategy for dealing with Covid. Mongolia’s measures are directed towards adaptation while China is focused on maintaining its Zero-Covid policy, i.e., zero transmission of the virus. The Zero-Covid Policy impedes the volume of Mongolian exports and increases the border crossing time because of the increased required paperwork and quarantine time for truck drivers. As a result, border crossing times have more than doubled.~~ 
 
 Not only is Mongolia entirely dependent on exporting natural resources, they are also entirely dependnet on China to buy those imports. Mongolia is doubly "cursed" in this sense. 
 
@@ -47,6 +76,9 @@ Given the importance of mining exports to China to Mongolia’s economy, the Mon
 
 ### Problems and challenges
 
+It's worth pointing out the assumption that I've made in thinking about these constraints. Isn't the biggest constraint the fact that Mongolia's economy is almost entirely dependent on mining, leaving it vulnerable to commodity price fluctuations? Yes. But Mongolia has hung their hat on selling mineral products to China. I think they are probably right to. In the short term, Mongolia cannot diversify quickly enough to effectively wean themselves off of mining revenues, but they can try to make the most of it. Mining revenues can give the government enough fiscal space to invest in critical infrastructure, education, etc.
+
+
 Putting aside questions about whether Mongolia can complete the NRP, China’s Zero Covid Policy has the potential to continue to be a binding constraint. Even if Mongolia completes the NRP, Beijing will still ultimately decide “the number of trucks transporting coal that cross the border daily”. Rail transport mitigates this constraint to some extent: presumably more goods can be brought across the border for the same amount of paperwork and quarantine time by drivers. In particular, the recently completed Tavan-Gashuunsukhait rail line will help offset some of the delays caused by additional Chinese import requirements. This, by itself, is not sufficient to get around the Zero-Covid Policy. The latest outlook suggests that the Zero-Covid Policy will remain in place for the foreseeable future. Ultimately, Mongolia’s recovery lies in the hands of Beijing.
 
 Yet, China’s Zero-Covid Policy cannot go on forever. It is too costly. If (when?) it is loosened or axed in the following years, the NRP’s new road and rail infrastructure should come online in tandem with the Oyu Tolgoi mine functioning at full capacity. If this outcome is likely, this pillar of the NRP seems to be worth pursuing, allowing Mongolia to potentially triple their exports.
@@ -56,6 +88,21 @@ On a consideration of risk, Mongolia’s policy of solely focusing on improving 
 Despite this risk, Mongolia has hung their hat on selling mineral products to China for the immediate future. It plans to export 95 million tons worth of product by 2029; they currently export 32 million tons. But will this demand from China for mineral products continue to exist in the future? China has committed to achieving peak coal use in 2025 and moving away from using coking coal—Mongolia’s main export—to manufacture steel. Furthermore, China has ramped up its domestic production of coal. Yet, China’s imports of coking coal have increased. From where we currently stand, it is difficult to say whether China will ramp down imports of coking coal. 
 
 So, where do we stand now? The NRP has the potential to unlock greater prosperity and economic growth in Mongolia. But whether the improved road and rail infrastructure the NRP plans to deliver will be effectively utilised lies in the hands of Beijing and its Zero-Covid Policy. For the NRP to be a success, it requires Beijing to continue importing Mongolian mineral products and to loosen import restrictions. Both may not be guaranteed. 
+
+
+## Mongolia & The BRI
+
+### BRI Projects in Mongolia
+
+
+### Risks?
+Given the close relationship Mongolia has with China, some have began to be quite cautious of the loans Mongolia has taken out, even suggesting that Mongolia will have to sell land to be able to repay Chinese loans. Let's consider some economic risks Mongolia faces. 
+
+**Debt Repayment & Narrow Economic Base**. Mongolia’s economy is centred on mining and commodity exports to China, leaving their economy heavily exposed to volatile commodity prices. Lower commodity prices or a decline in demand from China would present challenges for Mongolia to repay its debt. Furthermore, almost the entirety (~99.8%) Mongolia’s debt is in foreign currencies making it difficult for Mongolia to hedge for exchange rate risk. 
+
+**Chinese Ownership?** While other countries within the BRI have had to transfer strategic infrastructure to Chinese ownership, e.g. Sri Lanka’s Hambantota port, as a result of being unable to keep up with its debt payments, it is so far difficult to see any Chinese leverage being used to gain BRI funded assets in Mongolia or Mongolia being unable to repay their “1 billion USD” loan from China, as commodity prices are currently high and the Zero-Covid policy begins to ease. It’s worth noting that the BRI funded infrastructure projects in Mongolia are not as strategically valuable to China as ports in other countries. The main beneficiary of the new infrastructure will be Mongolia, allowing them to import and export goods in greater volumes and in shorter times. Considerations of a potential rail line connecting China to Europe that passes through Europe is mitigated by the fact that an existing line passing through Xinjiang already exists. Furthermore, China already has significant leverage over Mongolia as Mongolia’s largest trading partner. Overall, it seems unlikely that Mongolia will be unable to repay their loans or that China has an interest in owning the infrastructure.
+
+Restructuring. However, Chinese loan conditions are “undisclosed” and likely collateralised by mineral resource generated revenue. As this revenue is volatile, there is a distinct possibility of restructuring. While there have been rumours that Mongolia may have to sell land in order to repay the debt, these have been rejected by the government. Another distinct possibility is that China could institute a ‘materials-for-infrastructure’ deal akin to those it has arranged with Venezuela and their oil for loans partnership. 
 
 
 ## Political Context
@@ -115,20 +162,7 @@ i
 
 
 
-## Mongolia & The BRI
 
-### BRI Projects in Mongolia
-
-
-### Economic Risks
-Given the close relationship Mongolia has with China, some have began to be quite cautious of the loans Mongolia has taken out, even suggesting that Mongolia will have to sell land to be able to repay Chinese loans. Let's consider some economic risks Mongolia faces. 
-
-Debt Repayment & Narrow Economic Base. Mongolia’s economy is centred on mining and commodity exports to China, leaving their economy heavily exposed to volatile commodity prices. Lower commodity prices or a decline in demand from China would present challenges for Mongolia to repay its debt. Furthermore, almost the entirety (~99.8%) Mongolia’s debt is in foreign currencies making it difficult for Mongolia to hedge for exchange rate risk. 
-
-
-Chinese Ownership? While other countries within the BRI have had to transfer strategic infrastructure to Chinese ownership, e.g. Sri Lanka’s Hambantota port, as a result of being unable to keep up with its debt payments, it is so far difficult to see any Chinese leverage being used to gain BRI funded assets in Mongolia or Mongolia being unable to repay their “1 billion USD” loan from China, as commodity prices are currently high and the Zero-Covid policy begins to ease. It’s worth noting that the BRI funded infrastructure projects in Mongolia are not as strategically valuable to China as ports in other countries. The main beneficiary of the new infrastructure will be Mongolia, allowing them to import and export goods in greater volumes and in shorter times. Considerations of a potential rail line connecting China to Europe that passes through Europe is mitigated by the fact that an existing line passing through Xinjiang already exists. Furthermore, China already has significant leverage over Mongolia as Mongolia’s largest trading partner. Overall, it seems unlikely that Mongolia will be unable to repay their loans or that China has an interest in owning the infrastructure.
-
-Restructuring. However, Chinese loan conditions are “undisclosed” and likely collateralised by mineral resource generated revenue. As this revenue is volatile, there is a distinct possibility of restructuring. While there have been rumours that Mongolia may have to sell land in order to repay the debt, these have been rejected by the government. Another distinct possibility is that China could institute a ‘materials-for-infrastructure’ deal akin to those it has arranged with Venezuela and their oil for loans partnership. 
 
 
 
