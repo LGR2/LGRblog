@@ -3,7 +3,7 @@ title = "About"
 description = "Just a little bit about myself..."
 date = "2022-12-06"
 aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+author = "Leon Reilly"
 draft = false
 +++
 
@@ -13,3 +13,5 @@ Beyond this, I also compose (classical) music in my spare time and run a music r
 
 
 
+![He's just like me fr](/sillyfella.jpg)
+He just like me fr
