@@ -4,7 +4,6 @@ baseURL = "https://lgr.pages.dev/"
 copyright = "Copyright © 2022"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-googleAnalytics = "G-WDJSJN9GZ2"
 hasCJKLanguage = true
 languageCode = "cn"
 theme = "hugo-theme-tokiwa"
@@ -24,6 +23,7 @@ description = """
 I write about topics I find interesting, usually economics.
 """ 
 env = "production" # for Google Analytics and DISQUS.
+googleAnalytics = "G-WDJSJN9GZ2"
 favicon = "/img/favicon-32x32.png"
 fuse = true # for searchbox. "JSON" must added to output contents. See [outputs].
 math = true # for introducing $KaTEX$
