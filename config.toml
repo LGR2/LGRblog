@@ -9,6 +9,7 @@ languageCode = "cn"
 theme = "hugo-theme-tokiwa"
 title = "郭亮 LGR's Blog"
 favicon = true
+googleAnalytics = "G-WDJSJN9GZ2"
 
 [markup]
 [markup.highlight]
@@ -23,7 +24,6 @@ description = """
 I write about topics I find interesting, usually economics.
 """ 
 env = "production" # for Google Analytics and DISQUS.
-googleAnalyticsID = "G-WDJSJN9GZ2"
 favicon = "/img/favicon-32x32.png"
 fuse = true # for searchbox. "JSON" must added to output contents. See [outputs].
 math = true # for introducing $KaTEX$
