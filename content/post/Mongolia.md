@@ -1,7 +1,7 @@
 +++
 title = "The Path to Prosperity: Mongolia"
 description = "An investigation into what the hell is goin on in Mongolia"
-date = "2023-01-31"
+date = "2023-02-15"
 author = "Leon Reilly"
 categories = [
     "Economics",
@@ -12,7 +12,7 @@ tags = [
     "China",
 ]
 toc = true
-draft = true
+draft = false
 
 +++
 
@@ -98,101 +98,98 @@ On a consideration of risk, Mongolia’s policy of almost entirely focusing on i
 China has committed to achieving peak coal use in 2025 and moving away from using coking coal—Mongolia’s main export—to manufacture steel. Furthermore, China has ramped up its domestic production of coal. From where we currently stand, it is difficult to say whether China will ramp down imports of coking coal. 
 
 
-## Mongolia & The BRI
+## Mongolia & The Belt and Road Initiative
 
-Mongolia is included in one of the six "economic corridors" that the <abbr title="Belt and Road Intiative">BRI</abbr> seeks to establish. This economic corridor is called the "China-Mongolia-Russia Economic Corridor". Most of the projects are related to transportation and infrastructure. Of the thirteen transportation projects, seven are for railways and four are for roads[^6].
+Mongolia is included in one of the six "economic corridors" that the <abbr title="Belt and Road Intiative">BRI</abbr> seeks to establish. This economic corridor is called the "China-Mongolia-Russia Economic Corridor". Most of the projects are related to transportation and infrastructure. Of the thirteen transportation projects, seven are for railways and four are for roads[^6]. Given the key infrstructural challenges I flagged earlier, I think the BRI has the potential to improve (significantly?) the speed at which Mongolia can export to China and reduce the cost. They're both important steps in making Mongolia more competitive going into the future. 
 
 [^6]: https://www.unescap.org/sites/default/files/5_Mongolia%20BRI%20progress.pdf
 
-### Risks
-Given the close relationship Mongolia has with China, some have began to be quite cautious of the loans Mongolia has taken out, even suggesting that Mongolia will have to sell land to be able to repay Chinese loans. Let's consider some economic risks Mongolia faces. 
+### **Risks**
+It's not all perfect, though. Given the close relationship Mongolia has with China, some have began to be quite cautious of the loans Mongolia has taken out, even suggesting that Mongolia will have to sell land to be able to repay Chinese loans. Let's consider some economic risks Mongolia faces. 
 
-- **Debt Repayment & Narrow Economic Base.** Mongolia’s economy is centred on mining and commodity exports to China, leaving their economy heavily exposed to volatile commodity prices. Lower commodity prices or a decline in demand from China would present challenges for Mongolia to repay its debt. Furthermore, almost the entirety (~99.8%) Mongolia’s debt is in foreign currencies making it difficult for Mongolia to hedge for exchange rate risk. 
-- **Chinese Ownership?** While other countries within the BRI have had to transfer infrastructure to Chinese ownership, e.g. Sri Lanka’s Hambantota port, as a result of being unable to keep up with its debt payments, it is so far difficult to see China trying to capture BRI funded assets in Mongolia or Mongolia being unable to repay their “1 billion USD” loan from China[^7]. Commodity prices are high and the Zero-Covid policy ~~begins to ease~~ is gone. Even if China was deliberately trying to own BRI funded infrastructure projects in Mongolia, the BRI projects just aren't as strategically valuable to China as projects in other countries. The main beneficiary of the new infrastructure will be Mongolia, allowing them to import and export goods in greater volumes and in shorter times. China already has significant leverage over Mongolia as Mongolia’s largest trading partner—BRI loans are not going to be the tipping point.
-- **Restructuring.** Chinese loan conditions are “undisclosed” and likely collateralised by mineral resource generated revenue. As this revenue is volatile, there is a distinct possibility of loan restructuring—some people in Mongolia suggested that Mongolia would have to sell land in order to repay Chinese debt[^8]. Another possibility is that China could institute a ‘materials-for-infrastructure’ deal akin to those it has arranged with Venezuela and their oil for loans partnership. 
+- **Debt Repayment & Narrow Economic Base.** Mongolia’s economy is centred on mining and commodity exports to China, leaving their economy heavily exposed to volatile commodity prices and lulls in Chinese demand. Lower commodity prices or a decline in demand from China would present significant challenges for Mongolia to repay its debt. Furthermore, almost the entirety (~99.8%) Mongolia’s debt is in foreign currencies making it difficult for Mongolia to hedge for exchange rate risk. 
+- **Chinese Ownership?** While other countries within the BRI have had to transfer infrastructure to Chinese ownership, e.g. Sri Lanka’s Hambantota port, as a result of being unable to keep up with its debt payments, it is so far difficult to see China trying to capture BRI funded assets in Mongolia or Mongolia being unable to repay their “1 billion USD” loan from China.[^7] Commodity prices are high and the Zero-Covid policy ~~begins to ease~~ is gone. Even if China was deliberately trying to own BRI funded infrastructure projects in Mongolia, the BRI projects just aren't as strategically valuable to China as projects in other countries. The main beneficiary of the new infrastructure will be Mongolia, allowing them to import and export goods in greater volumes and at lower prices. China already has significant leverage over Mongolia as Mongolia’s largest trading partner—BRI loans are not going to be the tipping point.
+- **Restructuring.** Chinese loan conditions are “undisclosed” and likely collateralised by mineral resource generated revenue. As this revenue is volatile, there is a distinct possibility of loan restructuring—some people in Mongolia suggested that Mongolia would have to sell land in order to repay Chinese debt.[^8] Another possibility is that China could institute a ‘materials-for-infrastructure’ deal akin to those it has arranged with Venezuela and their oil for loans partnership. 
 
-[^7]: I have heard the argument that China is deliberately doing "debt-trap diplomacy" to extract concessions, e.g., strategic infrastructure. I'm not convinced of this argument based on the evidence. See this and others: Nicolas Lippolis & Harry Verhoeven (2022) Politics by Default: China and the Global Governance of African Debt, Survival, 64:3, 153-178, DOI: 10.1080/00396338.2022.2078054
+Overall, I think the BRI is a net positive to Mongolia. 
+
+[^7]: I have heard the argument that China is deliberately pursuing "debt-trap diplomacy" to extract concessions, e.g., strategic infrastructure. I'm not convinced of this argument based on the evidence. See this and others: Nicolas Lippolis & Harry Verhoeven (2022) Politics by Default: China and the Global Governance of African Debt, Survival, 64:3, 153-178, DOI: 10.1080/00396338.2022.2078054
 
 [^8]: https://www.mongoliaweekly.org/post/growing-debt-to-china-worries-mongolia 
 
-## Political Context
+## Political and Economic Context
 
-### The Democratic Party Policies: 2012-2016
-Chinggis Bonds: In 2012, with Mongolia’s economic growth at 17.3% in the previous year, the Democratic Party’s government issued Mongolia’s first bonds. The Chinggis Bond worth USD 1.5 billion. USD 500 million worth had a duration of 5 years with an interest rate of 4.13%, the remainder had a duration of 10 years with an interest rate of 5.125%. The condition was to repay 500 million dollars in 2017-2018 and the remaining 1 billion in 2022. The Chinggis bond was used to fund infrastructure projects. (1) (2) (3)
-
-In 2013, the Democratic Party’s government in power used the Development Bank of Mongolia as a vehicle to fund new policies designed to win them votes. These policies subsidised mortgages, student loans, and credit for herders. These policies led to the government exceeding its capital expenditure. 
-
-### The Mongolian People's Party: 2016 onwards
-
-The Mongolian People’s Party came to power in 2016, beating the Democratic Party. The new government needed to repay the Chinggis bond but lacked the capacity to do so. Moreover, there was an ongoing commodity-price crisis because of China’s slowing growth. (4)
-
-Gerege Bonds: The government swapped the old Chinggis bonds for new Gerege bonds worth USD 800 million. These were issued in 2017 with a maturity of 5.5 years and an interest rate of 5.62% to repurchase previous bonds closing in on their maturity. (5)
-
-IMF: The government sought the IMF’s Extended Fund Facility to pay for the remainder of the bonds. Mongolia received about USD 425 million, which itself was part of a USD 5.5 billion multi-donor financing package supported by Japan, Korea, China, the World Bank, and the Asian Development Bank. In return, the IMF required Mongolia’s government to implement a Fiscal Stability Law, limiting budget expenditure to 5% of GDP. (6) (7)
-
- 
-
-<iframe title="Mongolian Gross External Debt Position, by country, USD millions" aria-label="Interactive line chart" id="datawrapper-chart-LIQqG" src="https://datawrapper.dwcdn.net/LIQqG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="667" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+As always, politics and economics are intertwined. I want to examine two recent periods in Mongolia's political history. 
 
 
-
-
-## Economy
-
-### Economic Problems
-
-Declining Commodity Prices & Uncompetitive Exports: The price of coal and copper fell steadily from 2011 until 2016. Furthermore, demand from China declined.
-
-Protectionist Policies & Falling Investor Confidence: The Democratic Party attempted to renegotiate the terms of the Oyu Tolgoi copper and gold mine, which took a toll on investor confidence. Specifically, new tougher mining laws that sought to increase Mongolian control and income on foreign investor-led mining projects were imposed. Additionally, the second phase of the Oyu Tolgoi project struggled to push forward. (8) (9) However, the election of the Mongolian People’s Party in 2016 restored investor confidence, contributing to higher FDI inflows. 
-
-
- 
-<iframe title="Mongolian FDI, net inflows" aria-label="Interactive line chart" id="datawrapper-chart-JZl0H" src="https://datawrapper.dwcdn.net/JZl0H/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="390" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
-
-
+### **The Democratic Party Policies: 2012-2016**
 
 
 <iframe title="Mongolian Real GDP Growth" aria-label="Interactive line chart" id="datawrapper-chart-QDjy0" src="https://datawrapper.dwcdn.net/QDjy0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-### Dutch Disease in Mongolia
+Why did economic growth fall so rapidly in Mongolia? A few different factors all came together.
 
-Due to the high levels of FDI inflows in Mongolia, there has been speculation that Dutch Disease exists in Mongolia. Dutch Disease is made up of two effects. The first is the spending effect. In Mongolia's case, this is where the export of mineral products and FDI inflows generate and appreciation of the real exchange rate, an increase in government spending, and the expansion of the non-tradable (i.e. services) sector. The second is the resource movement effect. This is the shift in labour from the traditional manufacturing sector to the mining sector. This is because the appreciation of the rel exchange rate negatively influences the export of non-mineral products. 
-
-From reviewing the literature, the six studies I read all found some evidence of Dutch Disease in Mongolia with varying degrees of strength in their claims. However, most studies did not explicitly claim Dutch Disease exists due to mixed results, unexpected coeffcient values, mitigating factors etc. I plan to try replicate one of these studies in the future, with the added benefit of increased data.
-
-
-### Foreign Debt
-i
+1. **Chinggis Bonds**: In 2011, Mongolia's economic growth rate reached 17.3% on the back of its strong mining industry. The Democratic Party (MDP)—who had just come into power—issued Mongolia's first bonds, called the Chinggis Bond. The bonds were used to fund infrastructure projects.
+    * These bonds were worth $1.5 billion
+    * $500 million worth had a duration of 5 years with an interest rate of 4.13%
+    * The remainder had a duration of 10 years with an interest rate of 5.125%
+    * The condition was to repay $500 million in 2017-2018 and the remainder in 2022.[^9]
 
 
+[^9]: See here and others: 
+    * http://www.xinhuanet.com/english/2020-09/29/c_139407230.htm.
+    * https://montsame.mn/en/read/268608.
+    * http://www.eri.mn/download/luim3j78.
+
+
+2. **Excessive Spending**: In 2013, the MDP used the Development Bank of Mongolia as a vehicle to fund new policies designed to win them votes. These policies subsidised mortgages, student loans, and credit for herders. These policies led to the government exceeding its capital expenditure. [^10]
+
+
+3. **Declining Commodity Prices**: The price of coal and copper fell steadily from 2011 until 2016. These declining commodity prices coupled with falling demand for China meant that Mongolia was generating less revenue than usual.[^10]
+
+[^10]: https://blog.politics.ox.ac.uk/mongolias-debt-overhang-amidst-a-pandemic/
 
 
 
 
+4. **Protectionist Policies & Falling Investor Confidence**: The MDP attempted to renegotiate the terms of the Oyu Tolgoi copper and gold mine, which took a toll on investor confidence. Specifically, new tougher mining laws that sought to increase Mongolian control and income on foreign investor-led mining projects were imposed. Additionally, the second phase of the Oyu Tolgoi project struggled to push forward. However, the election of the Mongolian People’s Party in 2016 restored investor confidence, contributing to higher FDI inflows.[^11] The graphs below speaks for themselves.
 
-
-
-
-### What is the current economic outlook (2022)?
-Rising Inflation: Inflation has been rising because of disrupted food imports from China and Russia, amplified by the war in Ukraine. “Exports out of Russia have halted, and Mongolia has lost access to the once-steady flow of cereals, oils, dairy products and sugar from its second-biggest import partner.” The Central Bank has raised policy interest rates to 12% (10) (11)
-
-China’s Policies: China’s border closures have meant that Mongolia’s ability to export and take advantage of currently high commodity prices has been weakened. 
-
-FX Pressures: “Weaker export volumes and rising imports due to higher prices and the unleashing of pent-up demand, have led to mounting FX pressure and dwindling international reserves”. (12) These rising imports have been in infrastructure and construction projects. Increasing demand is for consumer durables and services. (13)
-
-Recovery: After 4 successive quarters of economic contraction, the sharp uptick in 2022Q2 GDP largely reflects an acceleration of the ongoing economic recovery in the non-mining sector, especially agriculture. (14)
-
- 
-Figure 4, Data from IMF
-Mining continues to be the largest source of FDI in the country. FDI has recovered since the election of the Mongolian People’s Party:
+<iframe title="Mongolian FDI, net inflows" aria-label="Interactive line chart" id="datawrapper-chart-JZl0H" src="https://datawrapper.dwcdn.net/JZl0H/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="390" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 <iframe title="Mongolian FDI Inflows by Sector, USD Millions" aria-label="Interactive line chart" id="datawrapper-chart-hDpev" src="https://datawrapper.dwcdn.net/hDpev/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
+[^11]: See here and others:
+    * https://www.china-briefing.com/news/china-mongolia-relations/
+    * https://economics.rabobank.com/publications/2013/september/country-report-mongolia/
 
+
+<br>
+
+
+
+### The Mongolian People's Party: 2016 onwards
+
+<iframe title="Mongolian Gross External Debt Position, by country, USD millions" aria-label="Interactive line chart" id="datawrapper-chart-LIQqG" src="https://datawrapper.dwcdn.net/LIQqG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="667" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
+The Mongolian People’s Party (MPP) came to power in 2016, beating the Democratic Party. Much of the MPP's work was dealing with the previous policies of the MDP. First, was dealing with the Chinggis Bonds. The new government needed to repay but lacked the capacity. So, what's the solution?
+
+1. **Gerege Bonds**: The MPP swapped the old Chinggis Bonds for new Gerege bonds.
+    * These new bonds were worth $800 million
+    * They were issued in 2017 with a maturity of 5.5 years and an interest rate of 5.62%
+    * The were issued to repurchase previous bonds closing in on their maturity [^12]
+
+[^12]: See this: https://www.pressreader.com/mongolia/the-ub-post/20210705/281586653584544
+
+
+2. **IMF**: The government sought the IMF’s Extended Fund Facility to pay for the remainder of the bonds. In 2016, Mongolia received about USD 425 million, which itself was part of a USD 5.5 billion multi-donor financing package supported by Japan, Korea, China, the World Bank, and the Asian Development Bank. In return, the IMF required Mongolia’s government to implement a Fiscal Stability Law, limiting budget expenditure to 5% of GDP.[^13] This explains the large spike in debt held by "Multilateral" on the graph.
+
+[^13]: See these and others: 
+    * https://www.imf.org/en/News/Articles/2017/05/31/NA053117Mongolia-Turns-the-Corner-with-5-5-Billion-IMF-Led-Financing-Package.
+    * https://blog.politics.ox.ac.uk/mongolias-debt-overhang-amidst-a-pandemic/.
 
  
 
@@ -201,21 +198,10 @@ Mining continues to be the largest source of FDI in the country. FDI has recover
 
 
 
-Works Cited
-1. [Online] http://www.xinhuanet.com/english/2020-09/29/c_139407230.htm.
-2. [Online] https://montsame.mn/en/read/268608.
-3. [Online] http://www.eri.mn/download/luim3j78.
-4. [Online] https://blog.politics.ox.ac.uk/mongolias-debt-overhang-amidst-a-pandemic/.
-5. [Online] https://www.pressreader.com/mongolia/the-ub-post/20210705/281586653584544.
-6. [Online] https://www.imf.org/en/News/Articles/2017/05/31/NA053117Mongolia-Turns-the-Corner-with-5-5-Billion-IMF-Led-Financing-Package.
-7. [Online] https://blog.politics.ox.ac.uk/mongolias-debt-overhang-amidst-a-pandemic/.
-8. [Online] https://www.china-briefing.com/news/china-mongolia-relations/.
-9. [Online] https://economics.rabobank.com/publications/2013/september/country-report-mongolia/.
-10. [Online] https://worldcrunch.com/business-finance/mongolia-economy.
-11. [Online] https://mongolia.gogo.mn/r/nqdke.
-12. [Online] https://www.imf.org/en/News/Articles/2022/05/12/mongolia-concluding-statement-2022-imf-staff-visit.
-13. [Online] https://www.imf.org/en/News/Articles/2022/10/25/mcs102522-mongolia-staff-concluding-statement-of-the-2022-article-iv-mission.
-14. [Online] https://www.imf.org/en/News/Articles/2022/10/25/mcs102522-mongolia-staff-concluding-statement-of-the-2022-article-iv-mission.
-15. [Online] https://cabinet.gov.mn/wp-content/uploads/2050_VISION_LONG-TERM-DEVELOPMENT-POLICY.pdf.
 
 
+## Dutch Disease in Mongolia
+
+Due to the high levels of FDI inflows in Mongolia, there has been speculation that Dutch Disease exists in Mongolia. Dutch Disease is made up of two effects. The first is the spending effect. In Mongolia's case, this is where the export of mineral products and FDI inflows generate and appreciation of the real exchange rate, an increase in government spending, and the expansion of the non-tradable (i.e. services) sector. The second is the resource movement effect. This is the shift in labour from the traditional manufacturing sector to the mining sector. This is because the appreciation of the rel exchange rate negatively influences the export of non-mineral products. 
+
+From reviewing the literature, the studies I read all found some evidence of Dutch Disease in Mongolia with varying degrees of strength in their claims. However, most studies did not explicitly claim Dutch Disease exists due to mixed results, unexpected coeffcient values, or mitigating factors etc. I plan to try replicate one of these studies in the future, with the added benefit of increased data.
