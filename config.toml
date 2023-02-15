@@ -9,6 +9,7 @@ languageCode = "cn"
 theme = "hugo-theme-tokiwa"
 title = "郭亮 LGR's Blog"
 favicon = true
+googleAnalytics = 'G-WDJSJN9GZ2'
 
 
 [markup]
@@ -20,7 +21,6 @@ unsafe = true
 
 [params]
 bannerFont = "fonts/exampleFont" 
-googleAnalyticsID = "G-WDJSJN9GZ2"
 description = """
 I write about topics I find interesting, usually economics.
 """ 
