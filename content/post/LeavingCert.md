@@ -35,8 +35,8 @@ Yet, what is most interesting to me is, despite the lead girls have in almost ev
 
 | Grade Level    | No. Female | No. Male  | Total
 |----------------|------------|-------------|-----------
-| Higher Level   | 8830 (35%) | 9323 (38%)  | 31474
-| Ordinary Level | 16358 (65%)| 15116 (62%) | 18153
+| Higher Level   | 8830 (35%) | 9323 (38%)  | 18153
+| Ordinary Level | 16358 (65%)| 15116 (62%) | 31474
 | Total          | 25188      | 24439       | 49627
 
 

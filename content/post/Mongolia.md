@@ -26,15 +26,17 @@ What is going on in Mongolia?
 
 Obviously, there's [this guy on top of a mountain praising Genghis Khan](https://youtu.be/6WlI24rv__g?t=27). 
 
-No but really: what's going on in Monglia? I mean: Mongolia is a relatively obscure country that most people don’t know (or care) much about. But it’s quite an interesting country, both economically and geostrategically: Mongolia is landlocked country between Russia and China; it's also a democracy that's friends with the US; and it has few trillion dollars worth of mineral wealth. "Minegolia" could not be more apt of a name. Somewhat unsurprisingly, mining is a crucial component of the country's economy—and will continue to be for many years.
+No but really: what's going on in Monglia? I mean: Mongolia is a relatively obscure country that most people don’t know (or care) much about. But it’s quite an interesting country, both economically and geostrategically: Mongolia is landlocked country between Russia and China; it's also a democracy that's friends with the US; and it has few trillion dollars worth of mineral wealth. Somewhat unsurprisingly, mining is a crucial component of the country's economy—and will continue to be for many years. "Minegolia" could not be more apt of a name. 
 
-Today, there are a few dozen mines scattered across Mongolia. Many of them were developed by the USSR in the 20th century. Mining cooperation  between the USSR and Mongolia continued up until the breakup of the USSR—during that time Mongolia received a truly colossal amount of FDI for its small population of only ~2 million[^1]. In more recent times, foreign investors have begun to develop colossal mining projects, such as the Oyu Tolgoi mine, Mongolia's largest. These mines promise to chart a route for Mongolia on it's path to prosperity.
+Today, there are a few dozen mines scattered across Mongolia. Many of them were developed by the USSR in the 20th century. Mining cooperation  between the USSR and Mongolia continued up until the breakup of the USSR—during that time Mongolia received a truly colossal amount of FDI for its small population of only ~2 million.[^1] In more recent times, foreign investors have begun to develop colossal mining projects, such as the Oyu Tolgoi mine. This is Mongolia's largest mine. These mines promise to chart a route for Mongolia on it's path to prosperity.
 
 
 [^1]: See this and others: Dorian, J. P. (1991). USSR-Mongolia. Resources Policy, 17(1), 42–53. doi:10.1016/0301-4207(91)90025-q 
 
 
-The fact Mongolia borders Russia and China and has lots of natural resources helps explain the Mongolian economy's somewhat polar dynamics. While Mongolia used to export most of its mineral products to the USSR, in the 1990s, it reoriented itself towards Asia. High commodity prices and Chinese import demand for raw materials in the mid-2000s catalysed Mongolia's period of exceptional economic growth. Yet, it seems Mongolia's vast mineral wealth could become more of a vice than a virtue—over 90% of its exports come from the mining sector. So too, could its relationship with China—just over 80% of all Mongolia's exports go to China[^2]. Mongolia is reliant on its natural resources, China. and high commodity prices. I want to talk about two factors are constraining Mongolia's current—and future—economic growth. Let's explore them in some more detail.
+The fact Mongolia borders Russia and China and has lots of natural resources helps explain the Mongolian economy's somewhat polar dynamics. While Mongolia used to export most of its mineral products to the USSR, in the 1990s it reoriented itself towards Asia. High commodity prices and Chinese import demand for raw materials in the mid-2000s catalysed Mongolia's period of exceptional economic growth. Yet, it seems Mongolia's vast mineral wealth could become more of a vice than a virtue—over 90% of its exports come from the mining sector, leaving it particularly vulnerable to low commodity prices or lulls in demand. So too, could its relationship with China—just over 80% of all Mongolia's exports go to China[^2]. Mongolia is reliant on its natural resources, China, and high commodity prices. 
+
+I want to talk about two factors are constraining Mongolia's current—and future—economic growth. Let's explore them in some more detail.
 
 
 [^2]: From my own calculations. Data from TradeMap.
@@ -67,7 +69,8 @@ To make matters worse, while Mongolia has thirteen border ports with China, ~90%
 
 
 
-~~The second constraint is China’s Zero-Covid Policy. At the heart of Mongolia’s dilemma for growth is that Mongolia and China differ in their strategy for dealing with Covid. Mongolia’s measures are directed towards adaptation while China is focused on maintaining its Zero-Covid policy, i.e., zero transmission of the virus. The Zero-Covid Policy impedes the volume of Mongolian exports and increases the border crossing time because of the increased required paperwork and quarantine time for truck drivers. As a result, border crossing times have more than doubled.~~ Not only is Mongolia entirely dependent on exporting its natural resources, but it also entirely dependent on China to buy those natural resources.
+~~The second constraint is China’s Zero-Covid Policy. At the heart of Mongolia’s dilemma for growth is that Mongolia and China differ in their strategy for dealing with Covid. Mongolia’s measures are directed towards adaptation while China is focused on maintaining its Zero-Covid policy, i.e., zero transmission of the virus. The Zero-Covid Policy impedes the volume of Mongolian exports and increases the border crossing time because of the increased required paperwork and quarantine time for truck drivers. As a result, border crossing times have more than doubled.~~ 
+
 
 
 ### **Tackling these constraints**
@@ -82,7 +85,7 @@ It's worth pointing out the assumption that I've made in thinking about these co
 
 > Isn't the biggest constraint the fact that Mongolia's economy is almost entirely dependent on mining, leaving it vulnerable to commodity price fluctuations?
 
-Yes, it probably is. But Mongolia is committed to sell mineral products to China. I think they are probably right to, at least for now. In the short term, Mongolia cannot diversify quickly enough to effectively wean themselves off of mining revenues, but they can try to make the most of it. Mining revenues can give the government enough fiscal space to invest in critical infrastructure, education, etc. that will help the economy to diversify into the future.
+Yes, it probably is. But Mongolia is committed to selling mineral products to China. I think they are probably right to, at least for now. In the short term, Mongolia cannot diversify quickly enough to effectively wean themselves off of mining revenues, but they can try to make the most of it. Mining revenues can give the government enough fiscal space to invest in critical infrastructure, education, etc. that will help the economy to diversify into the future.
 
 
 ~~Putting aside questions about whether Mongolia can complete the NRP, China’s Zero Covid Policy has the potential to continue to be a binding constraint. Even if Mongolia completes the NRP, Beijing will still ultimately decide “the number of trucks transporting coal that cross the border daily”. Rail transport mitigates this constraint to some extent: presumably more goods can be brought across the border for the same amount of paperwork and quarantine time by drivers. In particular, the recently completed Tavan-Gashuunsukhait rail line will help offset some of the delays caused by additional Chinese import requirements. This, by itself, is not sufficient to get around the Zero-Covid Policy. The latest outlook suggests that the Zero-Covid Policy will remain in place for the foreseeable future. Ultimately, Mongolia’s recovery lies in the hands of Beijing.~~
@@ -100,20 +103,20 @@ China has committed to achieving peak coal use in 2025 and moving away from usin
 
 ## Mongolia & The Belt and Road Initiative
 
-Mongolia is included in one of the six "economic corridors" that the <abbr title="Belt and Road Intiative">BRI</abbr> seeks to establish. This economic corridor is called the "China-Mongolia-Russia Economic Corridor". Most of the projects are related to transportation and infrastructure. Of the thirteen transportation projects, seven are for railways and four are for roads[^6]. Given the key infrstructural challenges I flagged earlier, I think the BRI has the potential to improve (significantly?) the speed at which Mongolia can export to China and reduce the cost. They're both important steps in making Mongolia more competitive going into the future. 
+Mongolia is included in one of the six "economic corridors" that the <abbr title="Belt and Road Initiative">BRI</abbr> seeks to establish. This economic corridor is called the "China-Mongolia-Russia Economic Corridor". Most of the BRI projects are related to transportation and infrastructure. Of the thirteen transportation projects, seven are for railways and four are for roads[^6]. Given the key infrastructural challenges I flagged earlier, I think the BRI has the potential to improve (significantly?) the speed at which Mongolia can export to China and to lower transport costs. They're both important steps in making Mongolia more competitive going into the future. 
 
 [^6]: https://www.unescap.org/sites/default/files/5_Mongolia%20BRI%20progress.pdf
 
 ### **Risks**
-It's not all perfect, though. Given the close relationship Mongolia has with China, some have began to be quite cautious of the loans Mongolia has taken out, even suggesting that Mongolia will have to sell land to be able to repay Chinese loans. Let's consider some economic risks Mongolia faces. 
+It's not all perfect, though. Given the close relationship Mongolia has with China, some have begun to be quite cautious of the loans Mongolia has taken out, even suggesting that Mongolia will have to sell land to be able to repay Chinese loans. Let's consider some economic risks Mongolia faces. 
 
-- **Debt Repayment & Narrow Economic Base.** Mongolia’s economy is centred on mining and commodity exports to China, leaving their economy heavily exposed to volatile commodity prices and lulls in Chinese demand. Lower commodity prices or a decline in demand from China would present significant challenges for Mongolia to repay its debt. Furthermore, almost the entirety (~99.8%) Mongolia’s debt is in foreign currencies making it difficult for Mongolia to hedge for exchange rate risk. 
-- **Chinese Ownership?** While other countries within the BRI have had to transfer infrastructure to Chinese ownership, e.g. Sri Lanka’s Hambantota port, as a result of being unable to keep up with its debt payments, it is so far difficult to see China trying to capture BRI funded assets in Mongolia or Mongolia being unable to repay their “1 billion USD” loan from China.[^7] Commodity prices are high and the Zero-Covid policy ~~begins to ease~~ is gone. Even if China was deliberately trying to own BRI funded infrastructure projects in Mongolia, the BRI projects just aren't as strategically valuable to China as projects in other countries. The main beneficiary of the new infrastructure will be Mongolia, allowing them to import and export goods in greater volumes and at lower prices. China already has significant leverage over Mongolia as Mongolia’s largest trading partner—BRI loans are not going to be the tipping point.
+- **Debt Repayment & Narrow Economic Base.** Mongolia’s economy is centred on mining and commodity exports to China, leaving their economy heavily exposed to volatile commodity prices and lulls in Chinese demand. Lower commodity prices or a decline in demand from China would present significant challenges for Mongolia to repay its debt. Furthermore, almost the entirety of (~99.8%) Mongolia’s debt is in foreign currencies making it difficult for Mongolia to hedge for exchange rate risk. 
+- **Chinese Ownership?** While other countries within the BRI have had to transfer infrastructure to Chinese ownership, e.g. Sri Lanka’s Hambantota port, as a result of being unable to keep up with its debt payments, it is so far difficult to see China trying to capture BRI-funded assets in Mongolia or Mongolia being unable to repay their “1 billion USD” loan from China.[^7] Commodity prices are high and the Zero-Covid policy ~~begins to ease~~ is gone. Even if China was deliberately trying to own BRI funded infrastructure projects in Mongolia, the BRI projects just aren't as strategically valuable to China as projects in other countries. The main beneficiary of the new infrastructure will be Mongolia, allowing them to import and export goods in greater volumes and at lower prices. China already has significant leverage over Mongolia as Mongolia’s largest trading partner—BRI loans are not going to be the tipping point.
 - **Restructuring.** Chinese loan conditions are “undisclosed” and likely collateralised by mineral resource generated revenue. As this revenue is volatile, there is a distinct possibility of loan restructuring—some people in Mongolia suggested that Mongolia would have to sell land in order to repay Chinese debt.[^8] Another possibility is that China could institute a ‘materials-for-infrastructure’ deal akin to those it has arranged with Venezuela and their oil for loans partnership. 
 
-Overall, I think the BRI is a net positive to Mongolia. 
+Overall, I think the BRI is a net positive for Mongolia. 
 
-[^7]: I have heard the argument that China is deliberately pursuing "debt-trap diplomacy" to extract concessions, e.g., strategic infrastructure. I'm not convinced of this argument based on the evidence. See this and others: Nicolas Lippolis & Harry Verhoeven (2022) Politics by Default: China and the Global Governance of African Debt, Survival, 64:3, 153-178, DOI: 10.1080/00396338.2022.2078054
+[^7]: I have heard the argument that China is deliberately pursuing a "debt-trap diplomacy" strategy to extract concessions, e.g., strategic infrastructure. I'm not convinced of this argument based on the evidence. See this and others: Nicolas Lippolis & Harry Verhoeven (2022) Politics by Default: China and the Global Governance of African Debt, Survival, 64:3, 153-178, DOI: 10.1080/00396338.2022.2078054
 
 [^8]: https://www.mongoliaweekly.org/post/growing-debt-to-china-worries-mongolia 
 
@@ -180,7 +183,7 @@ The Mongolian People’s Party (MPP) came to power in 2016, beating the Democrat
 1. **Gerege Bonds**: The MPP swapped the old Chinggis Bonds for new Gerege bonds.
     * These new bonds were worth $800 million
     * They were issued in 2017 with a maturity of 5.5 years and an interest rate of 5.62%
-    * The were issued to repurchase previous bonds closing in on their maturity [^12]
+    * They were issued to repurchase previous bonds closing in on their maturity [^12]
 
 [^12]: See this: https://www.pressreader.com/mongolia/the-ub-post/20210705/281586653584544
 
