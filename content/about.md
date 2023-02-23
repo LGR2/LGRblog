@@ -24,11 +24,15 @@ Beyond this, I also compose (classical) music in my spare time and run a music r
   </label>
   <br>
   <label>
-    Your message (optional):
+    Your message:
     <br>
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
+  <br>
+  <label>Notify me when you post
+  <input type="checkbox" name="_optin">
+  </label>
   <br>
   <button type="submit"><mark>Submit</mark></button>
 </form>
