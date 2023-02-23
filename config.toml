@@ -55,6 +55,11 @@ name = "About"
 url = "/about/"
 weight = 3
 
+[[menu.main]]
+name = "Contact"
+url = "/about/"
+weight = 4
+
 [taxonomies]
 category = "categories"
 series = "series"
