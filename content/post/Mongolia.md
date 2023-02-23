@@ -253,5 +253,5 @@ From reviewing the literature, the studies I read all found some evidence of Dut
 </script>
 
 
-  // load cloudflare icons
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" />

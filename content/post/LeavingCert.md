@@ -180,7 +180,6 @@ Anyway, here I am six years later after attending that talk and writing my own v
 </script>
 
 
-  // load cloudflare icons
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" />
 
 
