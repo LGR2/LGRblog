@@ -208,3 +208,50 @@ The Mongolian People’s Party (MPP) came to power in 2016, beating the Democrat
 Due to the high levels of FDI inflows in Mongolia, there has been speculation that Dutch Disease exists in Mongolia. Dutch Disease is made up of two effects. The first is the spending effect. In Mongolia's case, this is where the export of mineral products and FDI inflows generate and appreciation of the real exchange rate, an increase in government spending, and the expansion of the non-tradable (i.e. services) sector. The second is the resource movement effect. This is the shift in labour from the traditional manufacturing sector to the mining sector. This is because the appreciation of the rel exchange rate negatively influences the export of non-mineral products. 
 
 From reviewing the literature, the studies I read all found some evidence of Dutch Disease in Mongolia with varying degrees of strength in their claims. However, most studies did not explicitly claim Dutch Disease exists due to mixed results, unexpected coeffcient values, or mitigating factors etc. I plan to try replicate one of these studies in the future, with the added benefit of increased data.
+
+
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+<script>
+  /* paste this line in verbatim */
+  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+  /* customize formbutton below*/     
+  formbutton("create", {
+    action: "https://formspree.io/f/xvonaykv",
+    buttonImg: "<i class='fa-solid fa-paper-plane' style='font-size:24px'/>",
+    title: "Say Hello!",
+    fields: [
+      { 
+        type: "email", 
+        label: "Email:", 
+        name: "email",
+        required: true,
+        placeholder: "your@email.com"
+      },
+      {
+        type: "textarea",
+        label: "Message:",
+        name: "message",
+        placeholder: "Hi...",
+      },
+      {
+        type: "checkbox",
+        label: "Notify me when you post",
+        name:"_optin",
+      },
+      { type: "submit", value: "Submit" }      
+    ],
+    styles: {  
+    fontFamily: '"Helvetica Neue", sans-serif',
+      title: {
+        backgroundColor: "rgba(178, 59, 131)"
+      },
+      button: {
+        backgroundColor: "rgba(2, 135, 96)"
+      }
+    }
+  });
+</script>
+
+
+  // load cloudflare icons
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" />
