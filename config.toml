@@ -61,7 +61,7 @@ series = "series"
 tag = "tags"
 [social]
 
-mail = "mailto:Leon.g.reilly@gmail.com"
+mail = "https://lgr.pages.dev/about/"
 youtube = "https://www.youtube.com/c/TheSockPuppet"
 
 # any icon in layouts/partials/svg can be used by the name without the "-line.svg"

@@ -11,6 +11,42 @@ Hi there! I'm **LGR**. I'm a gap year student from Ireland trying to interrogate
 
 Beyond this, I also compose (classical) music in my spare time and run a music related Youtube Channel.
 
+**If you want to say hello or get an email when I post, you can sign up here:**
+
+<form
+  action="https://formspree.io/f/xvonaykv"
+  method="POST"
+>
+  <label>
+    Your email:
+    <br>
+    <input type="email" name="email">
+  </label>
+  <br>
+  <label>
+    Your message (optional):
+    <br>
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <br>
+  <button type="submit"><mark>Submit</mark></button>
+</form>
+
+
+
+<br>
+<br>
+<br>
+
+
+
+
+---
+
+
+
+
 
 
 ![He's just like me fr](/sillyfella.jpg)
