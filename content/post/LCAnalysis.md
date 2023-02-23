@@ -15,10 +15,10 @@ toc = false
 draft = false
 
 +++
-### Preface
+## Preface
 [I'm doing everything in R]
 
-### I.
+## I.
 
 This is a follow-up to my previous article about the LC. While H1 rates were an important consideration for what subjects we chose, we probably should've paid more attention to the H1 rates by gender. To be fair, however, nobody has (to my knowledge) visualised or even presented these statistics before, so it's not like we didn't do our DD.
 
@@ -113,14 +113,14 @@ It's worth thinking about the mean and standard deviation values too. The data a
 </script>
 
 
-### III.
+## II.
 
 I think this table is super interesting. The top three subjects with the strongest association between gender and grade are Home Economics, Art, and Physics. Girls have a higher average grade in almost all subjects—almost a full grade higher (approx. +10 percentage points) in Home Economics—and are more consistent in all subjects, i.e., their standard deviation is lower. 
 
 Boys outperform girls in Mathematics, Chemistry, and Applied Mathematics. Although, it's worth pointing out that Applied Mathematics has the lowest chi-squared statistic. It is also statistically insignificant. The fact that boys do better in these three subjects, however, doesn't neatly map onto the stereotype that girls are better at humanities and boys are better at STEM. In other STEM subjects, girls outperform boys, e.g. Physics, Biology, Technology, and Construction Studies.
 
 
-### IV.
+## III.
 
 Unfortunately, I have no other data about other variables that would likely have an effect on grades, i.e., income levels, attending a fee-paying school, etc. I cannot control for these variables because the SEC doesn't collect this data<cite>[^1]</cite>. However, the fact we are testing the entire population rather than just a sample allows us to draw some conclusions with these limitations in mind. 
 
