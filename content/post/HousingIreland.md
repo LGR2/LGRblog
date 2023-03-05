@@ -41,6 +41,9 @@ For what is supposed to be public data, finding the boundaries for each Eircode 
 * <a href="/resources/Eircode_Map.json" download>Eircode Map: Full Detail GeoJSON</a> 
 * <a href="/resources/Eircode_Map_simplified.json" download>Eircode Map: Simplified GeoJSON</a>
 
+Here's the data I used from the CSO. Note, I have already cleaned this data.
+* <a href="/resources/Median House Price Data 2022.xlsx" download>CSO Median House Price Data 2022</a>
+
 
 <!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
 
