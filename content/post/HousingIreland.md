@@ -39,7 +39,7 @@ A few observations about this map:
 
 For what is supposed to be public data, finding the boundaries for each Eircode in Ireland was unnecessarily cumbersome. Here it is, in GeoJSON format, so nobody else has to search for it.
 * <a href="/resources/Eircode_Map.json" download>Eircode Map: Full Detail GeoJSON</a> 
-* <a href="/resources/Eircode_Map.json" download>Eircode Map: Simplified GeoJSON</a>
+* <a href="/resources/Eircode_Map_simplified.json" download>Eircode Map: Simplified GeoJSON</a>
 
 
 <!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
