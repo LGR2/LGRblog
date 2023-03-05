@@ -1,6 +1,6 @@
 +++
 title = "A Map: Housing Market in Ireland"
-description = "A cool map I made and learning GeoJSON"
+description = "A cool map I made + learning to use GeoJSON"
 date = "2023-02-27"
 author = "Leon Reilly"
 categories = [
