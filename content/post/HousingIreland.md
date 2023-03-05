@@ -28,7 +28,7 @@ Anything with in the "Notes" category will be usually short and captures my thou
 </script>
 
 
-For some reason, the Central Statistics Office (CSO) doesn't publish a map like this, so I decided to do it myself. It was a <abbr title="real pain in the ass">pretty good</abbr> exercise in both research and learning how to manipulate GeoJSON and CSO data. 
+For some reason, the Central Statistics Office (CSO) doesn't publish a map like this, so I decided to do it myself. It was a <abbr title="real pain in the ass">pretty good</abbr> exercise in both research and learning how to manipulate GeoJSON and CSO data. I encourage you to zoom in and see if you spot any interesting patterns!
 
 A few observations about this map:
 * As we approach Dublin, Cork, or Galway, house prices increase. This pattern is most obvious around Dublin. Sadly, this is probably not due to the numinous beauty of Dublin. It just suggests that the areas adjacent to Dublin are where many commute to work.
@@ -40,5 +40,53 @@ A few observations about this map:
 For what is supposed to be public data, finding the boundaries for each Eircode in Ireland was unnecessarily cumbersome. Here it is, in GeoJSON format, so nobody else has to search for it.
 * <a href="/resources/Eircode_Map.json" download>Eircode Map: Full Detail GeoJSON</a> 
 * <a href="/resources/Eircode_Map.json" download>Eircode Map: Simplified GeoJSON</a>
+
+
+<!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
+
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+<script>
+  /* paste this line in verbatim */
+  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+  /* customize formbutton below*/     
+  formbutton("create", {
+    action: "https://formspree.io/f/xvonaykv",
+    buttonImg: "<i class='fa-solid fa-paper-plane' style='font-size:24px'/>",
+    title: "Say Hello!",
+    fields: [
+      { 
+        type: "email", 
+        label: "Email:", 
+        name: "email",
+        required: true,
+        placeholder: "your@email.com"
+      },
+      {
+        type: "textarea",
+        label: "Message:",
+        name: "message",
+        placeholder: "Hi...",
+      },
+      {
+        type: "checkbox",
+        label: "Notify me when you post",
+        name:"_optin",
+      },
+      { type: "submit", value: "Submit" }      
+    ],
+    styles: {  
+    fontFamily: '"Helvetica Neue", sans-serif',
+      title: {
+        backgroundColor: "rgba(178, 59, 131)"
+      },
+      button: {
+        backgroundColor: "rgba(2, 135, 96)"
+      }
+    }
+  });
+</script>
+
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" />
 
 
