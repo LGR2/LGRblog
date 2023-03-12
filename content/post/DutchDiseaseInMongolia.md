@@ -5,7 +5,7 @@ date = "2023-01-06"
 author = "Leon Reilly"
 categories = [
     "Economics",
-    "Effortposts",
+    "Effortposts"
 ]
 tags = [
     "Mongolia",
@@ -16,6 +16,7 @@ draft = true
 
 +++
 
+Hi
 
 
 
