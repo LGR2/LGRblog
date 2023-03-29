@@ -25,7 +25,7 @@ draft = false
 
 I wrote this while I worked at Trivium China. I've modified it to make it more casual, which is the tone I'm trying going for on my blog.]
 
-[^0]: I could write a lot about why I did't like EYP, but I'm probably [just a hater.](https://img.ifunny.co/images/a0ce946904ae7ca64cb961603b728a037cbe21eda47614d6b025d0e72fa5c525_1.jpg)
+[^0]: I could write a lot about why I didn't like EYP, but I'm probably [just a hater.](https://img.ifunny.co/images/a0ce946904ae7ca64cb961603b728a037cbe21eda47614d6b025d0e72fa5c525_1.jpg)
 
 ## Introduction
 
