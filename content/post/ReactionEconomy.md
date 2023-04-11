@@ -4,8 +4,7 @@ description = "Extending on what William Davies said in the LRB"
 date = "2023-03-22"
 author = "Leon Reilly"
 categories = [
-    "Observations",
-    "Culture"
+    "Reflection"
    
 ]
 tags = [
@@ -17,7 +16,17 @@ draft = true
 
 +++
 
+IShowSpeed:
+* Reactions are ridiculous and comical which is funny
 
+
+FlightReacts
+* weird laugh and behaviour which is funny.
+
+Young Dabo:
+* Genuinely over the top behaviour. I'm jizzing my pants.
+
+Overlaying reactions of other sounds or faces on top of memes or pictures that are completely unrelated. 
 
 
 

@@ -178,6 +178,23 @@ Interestingly, policymakers have introduced a proposal to allow enterprises to �
 [^5]: https://mp.weixin.qq.com/s/frdVji-8ny6rezWiIzXWXw?mc_cid=a134e9d32d&mc_eid=b895b947cf and https://m.21jingji.com/article/20230322/herald/7455dd4629a44f5c821f74ddefe61a4a.html
 
 
+### What are exchanges?‎
+
+The role of the exchange in the ETS is to enable the trading of allowances between companies and other market participants. While there are several regional exchanges in operation in China, there are three that are worth paying attention to. 
+* Shanghai Environment and Energy Exchange: This is the national trading platform where firms trade allowances.
+* The Beijing Green Exchange: This the national trading platform for voluntary carbon credits and for domestic offsets (CCERs)
+* The Hubei Carbon Emissions Exchange: This exchange handles the registration of different companies until a new official national ETS registry is established. 
+
+The only trading that currently takes place is spot trades. No derivatives are currently traded. 
+
+### ***What is the CCER?‎***
+The China Certified Emission Reduction (CCER) is a scheme to allow companies to voluntarily reduce their emissions, for example, by building renewable power sources. Upon being certified, the firm is given a credit which the firm can use to meet its compliance obligations for up to 5% of its verified emissions. These credits—just like allowances—can be traded between firms, although their trading price was lower price at around ¥20 per tonne of CO<sub>2</sub> compared to around ¥40 per tonne of CO<sub>2</sub> for allowances. As CCER credits are cheaper than CEAs, we should recognise that they are cheaper substitutes and contribute to lowering the price of CEAs as they expand demand. Yet, CCER credits are a useful tool to have in the MEE’s toolbox as they allow firms to redirect finance into mitigation efforts, supporting industries like renewable energy which are currently not covered under the ETS.
+
+The CCER was gutted and suspended in 2017 by the National Development and Reform Commission (NDRC, China's macro planner) because of issues of standardisation in carbon audits (sound familiar?) and low trading volumes. There are a few signals which suggest that the CCER will be restarted soon.
+* The new compliance cycle document has been released. The CCER needs to work in lockstep with the allocation of CEAs to avoid adding too much supply into the market and reducing the price of carbon—this is what happened in the first compliance cycle. 
+* The CBGEX has built a new trading centre for CCERs and is ready to begin trading.
+* At this year's Two Sessions, many prominent memebers of the Chinese People's Political Consultative Conference (CPPCC/政协) have called for the CCER to restart as soon as possible. While there is always some degree of uncertainity in predicting whether Beijing will implement the proposals forwarded by the CPPCC, it is clear that there is a want for the CCER to be revived.
+
 ### ***Challenges with the ETS***
 
 As I flagged in the introduction, data quality and monitoring, reporting, and verification (MRV) issues are the largest issues facing the ETS. The voracity of emission data is crucial for the ETS to function. 
@@ -232,24 +249,11 @@ The China Securities Regulatory Commission (CSRC) has recently allowed at least 
 
 
 
-### ***What is the CCER?‎***
-The China Certified Emission Reduction (CCER) is a scheme to allow companies to voluntarily reduce their emissions, for example, by building renewable power sources. Upon being certified, the firm is given a credit which the firm can use to meet its compliance obligations for up to 5% of its verified emissions. These credits—just like allowances—can be traded between firms, although their trading price was lower price at around ¥20 per tonne of CO<sub>2</sub> compared to around ¥40 per tonne of CO<sub>2</sub> for allowances. As CCER credits are cheaper than CEAs, we should recognise that they are cheaper substitutes and contribute to lowering the price of CEAs as they expand demand. Yet, CCER credits are a useful tool to have in the MEE’s toolbox as they allow firms to redirect finance into mitigation efforts, supporting industries like renewable energy which are currently not covered under the ETS.
-
-The CCER was gutted and suspended in 2017 by the National Development and Reform Commission (NDRC, China's macro planner) because of issues of standardisation in carbon audits (sound familiar?) and low trading volumes. There are a few signals which suggest that the CCER will be restarted soon.
-* The new compliance cycle document has been released. The CCER needs to work in lockstep with the allocation of CEAs to avoid adding too much supply into the market and reducing the price of carbon—this is what happened in the first compliance cycle. 
-* The CBGEX has built a new trading centre for CCERs and is ready to begin trading.
-* At this year's Two Sessions, many prominent memebers of the Chinese People's Political Consultative Conference (CPPCC/政协) have called for the CCER to restart as soon as possible. While there is always some degree of uncertainity in predicting whether Beijing will implement the proposals forwarded by the CPPCC, it is clear that there is a want for the CCER to be revived.
 
 
 
-## What are exchanges?‎
 
-The role of the exchange in the ETS is to enable the trading of allowances between companies and other market participants. While there are several regional exchanges in operation in China, there are three that are worth paying attention to. 
-* Shanghai Environment and Energy Exchange: This is the national trading platform where firms trade allowances.
-* The Beijing Green Exchange: This the national trading platform for voluntary carbon credits and for domestic offsets (CCERs)
-* The Hubei Carbon Emissions Exchange: This exchange handles the registration of different companies until a new official national ETS registry is established. 
 
-The only trading that currently takes place is spot trades. No derivatives are currently traded. 
 
 
 ## What does the future look like?‎
