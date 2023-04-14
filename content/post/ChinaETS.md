@@ -13,7 +13,7 @@ tags = [
     
 ]
 toc = true
-draft = false
+draft = true
 
 +++
 
@@ -43,20 +43,19 @@ We are at an important stage in ETS policy. Several critical policy adjustments 
 </script>
 
 
-## What is an ETS and how does it work?‎
+## What is an ETS?‎
 
-Generally,[^2] an ETS is a market-based approach to reducing emissions by putting a price on the right to emit pollutants. How does an ETS work?
-* Companies are distributed <mark>allowances</mark>—the right to emit a certain of pollutants—by the government. These allowances can be traded. 
-* There is an absolute cap on the number of allowances distributed, meaning yearly total emissions are fixed. Over time, this cap is lowered to reduce emissions. 
-* The fixed supply of allowances creates a financial incentive for companies to reduce their emissions. Companies that can reduce their emissions more easily than others can sell their surplus allowances, while companies that cannot reduce their emissions as easily have to purchase extra allowances. 
-* As the cap is lowered, the supply of allowances is reduced pushing up the price. This further incentivises companies to cut emissions.
-* In order to make sure companies aren't cheating, their emissions are checked and verified. At the end of a compliance cycle, companies are required to surrender their allowances to match their verified emissions. 
-* Companies that fail to surrender sufficient allowances are subject to penalties. 
+An ETS is a market-based approach to reducing emissions by putting a price on the right to emit pollutants.[^2] The EU ETS is close to an ideal ETS design. How does an ideal ETS work?
+* Companies are distributed allowances—the right to emit a certain amount of pollutants—by the government. These allowances can be traded.
+* There is an absolute cap on the number of allowances distributed, meaning the yearly total emissions are fixed. Over time, this cap is lowered to reduce emissions.
+* The fixed supply of allowances creates a financial incentive for companies to reduce their emissions. Companies that can reduce their emissions more easily than others can sell their surplus allowances, while companies that cannot reduce their emissions as easily will have to purchase extra allowances.
+* As the cap is lowered, the supply of allowances is reduced, pushing up the price. This further incentivizes companies to cut emissions.
+* In order to make sure companies aren’t cheating, their emissions are checked and verified. At the end of a compliance cycle, companies are required to surrender their allowances to match their verified emissions.
+* Companies that fail to surrender sufficient allowances are subject to penalties.
 
 
-[^2]: I say generally because there is a lot of variability between the different ETS around the world. Usually, the variability comes in the form of how the allowances are distributed and how emissions are verified. This is just a small hedge—I explain a few different approaches governments can take. Also, did anyone else know that Kazakhstan or Montenegro had an ETS?
 
-This is an ideal ETS system. The Chinese ETS differs from the ideal in at least two ways. Notice, that I used the word 'distribute' deliberately here. It captures the fact there are several methods of distributing allowances to firms. Let's first consider the unique characteristics of China's ETS and then examine the modalities of how companies are distributed allowances.
+[^2]: There is a lot of variability between the different ETS around the world. Usually, the variability comes in the form of how the allowances are distributed and how emissions are verified. Also, did anyone else know that Kazakhstan or Montenegro had an ETS?
 
 
 ### ***The Chinese Context: ETS Design***
