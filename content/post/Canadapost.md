@@ -15,10 +15,10 @@ draft = true
 
 ## Canada as a Place
 
-I was in Toronto for about a week in July. Coming from the Old World (Ireland), walking through Yonge-Dundas really let me experience the "New World" wealth that us European plebs simply didn't have. Maybe Toronto is the wrong place to go looking for the New World opulence that many in Europe were chasing—after all, Toronto is just NYC from Wish.com . . .
+I was in Toronto for about a week in July. Coming from the Old World (Ireland), walking through Yonge-Dundas really let me experience the "New World" wealth that us Europeans simply didn't have. Maybe Toronto is the wrong place to go looking for the New World opulence that many in Europe were chasing—after all, Toronto is just NYC from Wish.com . . .
 
 There were a few things that struck me:
-- Skyscrapers, skyscrapers, skyscrapers. They're everywhere. I've been to London which is arguably the closet city in vibes to North American cities. It's nothing like London at all.  
+- Skyscrapers, skyscrapers, skyscrapers. They're everywhere. I've been to London which is arguably the closest city in vibes to North American cities. It's nothing like London at all.  
 - Roads are wide. Really wide. Especially in the city centre.
 - UofT. It's right in the middle of the city. Considering how expensive the housing and rental market is right now, it's unsurprising that the other satellite campuses are so far away.
 - Distance. Google Maps can deceive. Before I flew over, just looking at the city from Google Maps makes it look deceptively compact. It is not. Walking anywhere is really not an option. Living in the suburbs without a car is probably not possible.
