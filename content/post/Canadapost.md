@@ -35,7 +35,3 @@ But, is the presence of a single dominant culture what makes a country feel like
 Ultimately, it is the people that make a city. Canada's immigration policy, I think, contributes the most towards the feeling I had.
 
 **Immigration Laws** Canada's immigration law is straight forward. It's also relatively easy to immigrate there. Earn enough points set out by clear criteria, and you can come as an skilled worker. Compared to the US (and other English speaking countries), this is significantly easier—additionally if you're from China or India, you're far more likely to eventually become a citizen and stay. No such luck in the US—you won't see a Greencard in your life time just as a skilled worker. Therefore, there's a lot of skilled immigrants from all parts of the world looking for a better life in Canada. I think that has meant that Canada has become a place, rather than a country, that people come to find a better future.
-
-## Generalising
-
-So what makes a country feel like a country then? It probably isn't diversity. It's probably having a single large
