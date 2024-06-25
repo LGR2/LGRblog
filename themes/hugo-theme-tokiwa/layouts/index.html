@@ -1,10 +1,19 @@
 {{ define "main" }}
 {{ if isset .Site.Params "description" }}
 <div class="font-serif text-medium-red-violet-400 pt-3">
-	{{ .Site.Params.Description | markdownify }}
+	{{ .Site.Params.Description | markdownify }} 
 </div>
+
+<div class ="c-rich-text">
+<br>
+Currently up to no good at Stanford, nominally doing Math and Philosophy. Maintaining a blog like this is good for the soul. 
+Good writing practice too. Excursions in various styles.
+</div>
+
 <hr  class="pt-2"/>
 {{end}}
+
+
 
 <div>
 	<section>

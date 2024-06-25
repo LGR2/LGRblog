@@ -16,11 +16,6 @@ draft = false
 
 +++
 
-## Preface
-
-Anything with in the "Notes" category will be usually short and captures my thoughts. They're not as rigorous as my other posts.
-
-
 ## Cool Map
 
 
