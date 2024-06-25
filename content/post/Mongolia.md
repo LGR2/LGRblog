@@ -11,7 +11,7 @@ tags = [
     "Mongolia",
     "China",
 ]
-toc = true
+toc = false
 draft = false
 
 +++
