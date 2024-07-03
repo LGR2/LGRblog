@@ -27,7 +27,7 @@ A vacuum of need and gravity\
 Kept us in tension and ache.
 
 We chased after tiny toadlets,\
-Cupped hands outstretched\
+Crouching with cupped hands outstretched\
 Grinning at each other as\
 The sun bowed and the sky bled.
 
