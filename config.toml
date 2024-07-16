@@ -7,7 +7,7 @@ footnoteReturnLinkContents = "^"
 hasCJKLanguage = true
 languageCode = "cn"
 theme = "hugo-theme-tokiwa"
-title = "郭亮 LGR's Blog"
+title = "郭亮 | LGR's Blog"
 favicon = true
 googleAnalytics = 'G-WDJSJN9GZ2'
 
