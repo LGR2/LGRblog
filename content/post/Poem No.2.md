@@ -28,7 +28,7 @@ Kept us in tension and ache.
 
 We chased after tiny toadlets,\
 Crouching with cupped hands outstretched\
-Grinning at each other as\
+Grinning stupidly while\
 The sun bowed and the sky bled.
 
 Colour draining and stars soupy,\
