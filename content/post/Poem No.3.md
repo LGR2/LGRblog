@@ -24,22 +24,22 @@ This poem is a first attempt at trying to write a poem with those constraints sh
 Conscripted and armed with a rolling pin, \
 I was all hers as we made dumplings. Press \
 The dough flat—semiquavers, legato—\
-Stacking discs into pagodas: like this.\
+Stacking discs into pagodas: like this.
 
 I watched her fingertips guide each wrapping\
 into their delicate first kiss, sealing\
 Away their shared heart. She boils them, alive,\
-slowly—love's crucible of feeling.\
+slowly—love's crucible of feeling.
 
 My creator's fingers have gone through me.\
 I have been torn apart, flattened, rolled flat, \
 filled, and pinched at the edges to perfection.\
-Yet, I understand, knowing I am glad.\
+Yet, I understand, knowing I am glad.
 
 So, in my own way, I will fall apart\
 When I come home to billet. Turned to stone,\
 Gripping the rolling pin tight as I make\
-dumplings—always my favourite—alone.\
+dumplings—always my favourite—alone.
 
 
 
