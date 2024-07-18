@@ -1,7 +1,7 @@
 +++
-title = "Poem 2"
-description = "When walking around Lake Lagunita and taking in the scenery..."
-date = "2024-07-02"
+title = "Poem 3"
+description = "A poem about making dumplings with my mother"
+date = "2024-07-17"
 author = "Leon Reilly"
 categories = [
     "Poetry",
