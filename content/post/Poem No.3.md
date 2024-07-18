@@ -12,7 +12,9 @@ draft = false
 +++
 
 ### Remarks
-Writing good free verse poetry is difficult. But after trying hand at writing poetry with a fixed rhyme scheme and syllable count for each line, I can say the latter is significantly harder. I typically end up scowering rhyming dictionaries to find a word that might fit. Of course, I usually don't get so lucky as to stumble across a word that just so happens to fit *just like that*. I usually just end up rewriting. *C'est la vie*. This poem is a first attempt at trying to write a poem with those constraints shackled onto me.
+Writing good free verse poetry is difficult. But after trying hand at writing poetry with a fixed rhyme scheme and syllable count for each line, I can say the latter is significantly harder. I typically end up scowering rhyming dictionaries to find a word that might fit. Of course, I usually don't get so lucky as to stumble across a word that just so happens to fit *just like that*. I usually just end up rewriting the whole thing. *C'est la vie*. 
+
+This poem is a first attempt at trying to write a poem with those constraints shackled onto me.
 
 
 ---
