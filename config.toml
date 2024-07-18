@@ -1,7 +1,7 @@
 DefaultContentLanguage = "en"
 author = "Leon Reilly"
 baseURL = "https://lgr.pages.dev/"
-copyright = "Copyright © 2022"
+copyright = "Copyright © 2024"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 hasCJKLanguage = true
