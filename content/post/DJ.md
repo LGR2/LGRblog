@@ -1,6 +1,6 @@
 +++
-title = "Thoughts on DJing"
-description = "My latest hobby"
+title = "The Unexpected Poetry of DJing"
+description = "Some thoughts on my latest hobby"
 date = "2024-06-25"
 author = "Leon Reilly"
 categories = [
@@ -17,11 +17,11 @@ draft = false
 
 ## Thoughts on DJing
 
-What comes to mind when you hear those two letters: D and J? 
+D and J. What comes to mind when you hear those two letters gummed together? 
 
-I would've probably conjured up an idea some sort of vaguely youthful man who likes to party and do drugs. I think that's a pretty fair depiction and anyway, the DJ sets I watched years ago don't really do much to pull me away from that image. For example, [David Guetta is probably in a different universe here.](https://www.youtube.com/watch?v=mMFDxuh1zQo) I also never really paid any attention to the DJs at parties here—mainly as a consequence of them not being particularly good.
+I would've probably conjured up an idea of a vaguely youthful man who likes to party and probably do drugs. Or maybe I’d lump it in with the rest of the two-lettered acronyms that constantly get thrown around: PE, VC, IB, DJ. Is that a fair characterisation? I’d say so, and anyway, the DJ sets I watched years ago didn’t do much to pull me away from that image. [Look at David Guetts here—on a different planet.](https://www.youtube.com/watch?v=mMFDxuh1zQo). Even when I was old enough to go out to nightclubs or parties here with a live DJ, I never really paid any attention to them—mainly as a consequence of them not being particularly good. But I'm reluctant to ascribe that to a lack of skill. One reason might be that the DJ isn't being paid to put on a performance, just to play music that is loud enough and palatable enough. It's certainly easier to do.
 
-That is a shame! I think the experience of listening to a good DJ is like eating excellent food. Everyday, I eat food that is neither inspiring nor uplifting, despite what RD&E (ostentibly) demands. That's okay. The food—hopefully—isn't supposed to be Michelin Star quality; it's supposed to get the job done. Good for RD&E. Not so good for our palates. Oh well. But then you take an excursion to a place that really is (literally) Michelin Star quality and discover that you've actually been living with four senses your entire life and you've never properly used exercised your taste buds.
+Whatever else might be said about the quality of DJs I've seen, I think the experience of listening to a good DJ is like eating excellent food. Everyday, I eat food that is neither inspiring nor uplifting, despite what RD&E (ostentibly) demands. That's okay. The food—hopefully—isn't supposed to be Michelin Star quality; it's supposed to get the job done. Good for RD&E. Not so good for our palates. Oh well. But then you take an excursion to a place that really is (literally) Michelin Star quality and discover that you've actually been living with four senses your entire life and you've never properly used exercised your taste buds.
 
 Of course they're a little sad too. You think: *Fuck, I've been eating slop my entire life, I never knew chicken could taste like this*, which is immediately followed by the even sadder thought that you have to return to eating slop the very next day. It's not too hard to spot the parallels with DJing, I think. DJing at most parties just needs to get the job done. Even if it's bad, who cares. Everyone is either too drunk to care and there are usually no alternative parties available, so you just put up with it. Sometimes you get lucky and everyone once in a while you'll hear someone who knows what they're doing. The transitions are excellent. The track selection is great and matches the energy of the crowd. Just like good food, good DJing will make me leap out of my seat and scream.
 
