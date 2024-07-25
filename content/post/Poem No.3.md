@@ -29,7 +29,7 @@ Stacking discs into pagodas: soft bliss.
 I watched her fingertips guide each wrapping\
 into their delicate first kiss, sealing\
 Away their shared heart. She boils them, alive,\
-Slowly, her euphemism for annealing.
+Slowly: her euphemism for annealing.
 
 My creator's fingers have gone through me.\
 I have been torn apart, flattened, rolled flat, \
