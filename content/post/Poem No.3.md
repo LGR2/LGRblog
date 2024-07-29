@@ -22,9 +22,9 @@ This poem is a first attempt at trying to write a poem with those constraints sh
 ## Dumplings
 
 Conscripted and armed with a rolling pin, \
-I was all hers as we made dumplings. Press \
-The dough flat—semiquavers, legato—\
-Stacking discs into pagodas: soft bliss.
+I followed orders as we made dumplings. \
+Press the dough flat—keep quick rhythm, legato—\
+And stack discs into pagodas: her bliss.
 
 I watched her fingertips guide each wrapping\
 into their delicate first kiss, sealing\
