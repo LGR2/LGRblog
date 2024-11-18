@@ -14,7 +14,7 @@ draft = false
 ### Preface
 
 The research I worked on is sensitive. For straightforward reasons, I'm leaving out details and results that can't be shared publically. Here's the final slide deck of our presentation.
-* <a href="/Users/leonreilly/Documents/GitHub/LGRblog/content/resources/DSSG Final Presentation.pdf" download>DSSG Final Presentation 2024</a>
+* <a href="/resources/DSSG Final Presentation.pdf" download>DSSG Final Presentation 2024</a>
 
 ### I. 
 
