@@ -13,7 +13,8 @@ draft = false
 
 ### Preface
 
-The research I worked on is sensitive. For straightforward reasons, I'm leaving out details and results that can't be shared publically.
+The research I worked on is sensitive. For straightforward reasons, I'm leaving out details and results that can't be shared publically. Here's the final slide deck of our presentation.
+* <a href="/Users/leonreilly/Documents/GitHub/LGRblog/content/resources/DSSG Final Presentation.pdf" download>DSSG Final Presentation 2024</a>
 
 ### I. 
 
@@ -33,8 +34,10 @@ The Stanford Human Trafficking Data Lab and Brazilian Federal Labor Prosecution 
 Satellite Imagery ➔ CHAR ➔ Manual Processing ➔ Brazilian Task Force
 ```
 
-The major wrinkle with the existing model is its high rate of false positives, confusing roads, rivers and other visually similar features to the two parallel lines that are distinctive of charcoal kilns. As a consequence human post-processing often involves looking at images that cannot be charcoal sites due to their location, e.g. being in the ocean, on a highway, etc. Successful improvements over the current manual labeling would speed up task force prioritisation and therefore the potential to improve high-level anti-trafficking outcomes, that is, workers rescued. To this end, our project develops a downstream Gradient Boosting Classifier model trained on appropriately selected geospatial and survey data to augment the upstreams model’s accuracy.
+The major wrinkle with the existing model is its high rate of false positives, confusing roads, rivers and other visually similar features to the two parallel lines that are distinctive of charcoal kilns. As a consequence human post-processing often involves looking at images that cannot be charcoal sites due to their location, e.g. being in the ocean, on a highway, etc. Successful improvements over the current manual labeling would speed up task force prioritisation and therefore the potential to improve high-level anti-trafficking outcomes, that is, workers rescued. To this end, our project developed a downstream Gradient Boosting Classifier model trained on appropriately selected geospatial and survey data to augment the upstreams model’s accuracy.
 
 ### II.
+
+I think there's a few modalities from which you can look at the task we set ourselves. The intuition behind using geospatial data is that there is some signal in the data since there are presumably various important considerations that the people who set up the charcoal sites have to make. On one hand, you might want to construct a charcoal production site near a road since you ultimately are transporting the charcoal on trucks to be burned somewhere else. On the other hand, maybe you might not want the site too close to the road since that increases the risk you are discovered. Equally, for other features like waterbodies, you might make similar arguments re the quality of the soil/vegetation that might incentivise a charcoal producer to locate further/closer to a waterbody. The goal was to prioritise developing an interpretable model rather than a black box model since that would probably be more useful for the taskforce in Brazil. There might also be some second/third order effects that our geospatial features are proxying for, but our main goal was to generate as many potentially salient geospatial as possible and then think about removing some and seeing if they improved the model's performance. So, what variables did we end up with at the end of this process?
 
 
