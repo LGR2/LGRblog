@@ -1,7 +1,7 @@
 +++
 title = "Charcoal, Human Trafficking, and Machine Learning"
 description = "Discussion of what I did over the summer"
-date = "2024-09-16"
+date = "2024-11-16"
 author = "Leon Reilly"
 categories = [
     "Reflection",
