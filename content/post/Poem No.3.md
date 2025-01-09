@@ -21,20 +21,25 @@ This poem is a first attempt at trying to write a poem with those constraints sh
 
 ## Dumplings
 
-Conscripted and armed with a rolling pin, \
-I followed orders as we made dumplings. \
-Press the dough flat—keep quick rhythm, legato—\
+Conscripted and armed with a rolling pin,\
+I followed orders making dumpling bits.\
+Press the dough flat—keep quick rhythm, legato— \
 And stack discs into pagodas: her bliss.
 
 I watched her fingertips guide each wrapping\
 into their delicate first kiss, sealing\
-Away their shared heart. She boils them, alive,\
-Slowly: her euphemism for annealing.
+Away their shared heart. She boils them. Alive.\
+Slowly—her euphemism for annealing.
 
 My creator's fingers have gone through me.\
 I have been torn apart, flattened, rolled flat, \
 filled, and pinched at the edges to perfection.\
-Yet, I understand, knowing I am glad.
+Yet, I understand, knowing I am glad
+
+For being raised with starlight and tempered\
+In boiling water; to never burst\
+Under the weight of the rolling pin which\
+Razed my wrinkles for better or worse.
 
 So, in my own way, I will fall apart\
 When I come home to billet. Turned to stone,\
