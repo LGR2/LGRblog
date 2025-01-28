@@ -17,13 +17,6 @@ draft = false
 
 +++
 
-## Preface
-
-[While I was in school, I did an activity called European Youth Parliament. I only did it once for many reasons—mostly because it was bunk.[^0] This post feels a little like the briefings that we had to read, except this is considerably more technical. Anyway, China's ETS is arguably one of the most important tools we should be keeping an eye on. A few percentage points in Chinese emission reduction is just as valuable as an entire European country going carbon neutral.
-
-I wrote this while I worked at Trivium China. I've modified it to make it more casual, which is the tone I'm trying going for on my blog.]
-
-[^0]: I could write a lot about why I didn't like EYP, but I'm probably [just a hater.](https://img.ifunny.co/images/a0ce946904ae7ca64cb961603b728a037cbe21eda47614d6b025d0e72fa5c525_1.jpg)
  
 ## Introduction and Background
 
@@ -347,10 +340,7 @@ China’s period of leaning into each twist and turn of the ETS, of seeing what 
      Jiemian: [6家券商获证监会准入自营碳交易业务，国内碳市场流动性有望提升](https://www.jiemian.com/article/8853935.html)
 
 
-![Silly little joke](/ETS-Cat.jpg)
 
-
-he just like me fr
 
 
 
